@@ -1,6 +1,10 @@
 library(tidyverse)
 library(tidymodels)
 
+
+#------------------------------------------------------------------------------#
+#                           tidyverse data cleaning                            #
+#------------------------------------------------------------------------------#
 chart_analysis <- read_csv("data/chart_analysis.csv")
 
 # audio features -----------
@@ -10,6 +14,11 @@ clean_chart <- select(chart_analysis,
                          "rank", "year", "artist", "featured_artist", "title")) %>%
   mutate(chart = as.factor(chart),
          key = as.factor(key))
+
+
+#------------------------------------------------------------------------------#
+#                                   rsample                                    #
+#------------------------------------------------------------------------------#
 
 # set seed
 set.seed(0)
@@ -23,6 +32,9 @@ train_df <- training(init_split)
 # extract testing set
 test_df <- testing(init_split)
 
+#------------------------------------------------------------------------------#
+#                                   Recipes                                    #
+#------------------------------------------------------------------------------#
 
 # define recipe: center and scale 
 # keep it simple for example purposes
@@ -35,9 +47,17 @@ audio_rec <- recipe(chart ~ ., data = train_df)  %>%
 audio_train <- bake(audio_rec, train_df)
 audio_test <- bake(audio_rec, test_df)
 
+#------------------------------------------------------------------------------#
+#                                   parsnip                                    #
+#------------------------------------------------------------------------------#
+
 audio_classifier <- rand_forest(mode = "classification") %>%
   set_engine("ranger") %>%
   fit(chart ~ ., data = audio_train)
+
+#------------------------------------------------------------------------------#
+#                                  yardstick                                   #
+#------------------------------------------------------------------------------#
 
 audio_estimates <- predict(audio_classifier, audio_test) %>%
   bind_cols(audio_test) %>%
