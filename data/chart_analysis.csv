@@ -1,0 +1,595 @@
+rank,year,chart,artist,featured_artist,title,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,duration_ms,time_signature
+1,2016,Hot Country Songs,Florida Georgia Line,NA,H.O.L.Y.,0.525,0.685,7,-3.954,0,0.0351,0.385,0,0.0731,0.54,78.003,audio_features,194187,4
+2,2016,Hot Country Songs,Thomas Rhett,NA,Die A Happy Man,0.66,0.383,2,-9.377,1,0.0304,0.381,0,0.119,0.381,83.096,audio_features,227427,4
+3,2016,Hot Country Songs,Tim McGraw,NA,Humble And Kind,0.355,0.48,11,-7.31,1,0.0282,0.679,2.28e-6,0.12,0.137,100.956,audio_features,259267,3
+4,2016,Hot Country Songs,Dierks Bentley,NA,Somewhere On A Beach,0.573,0.635,7,-6.621,1,0.0275,5.98e-4,0,0.0845,0.447,144.031,audio_features,197120,4
+5,2016,Hot Country Songs,Jon Pardi,NA,Head Over Boots,0.557,0.676,7,-4.457,1,0.027,0.0661,0,0.0871,0.678,108.016,audio_features,202347,4
+6,2016,Hot Country Songs,Cole Swindell,NA,You Should Be Here,0.531,0.746,11,-4.228,1,0.0329,0.0972,0,0.102,0.304,139.788,audio_features,226307,4
+7,2016,Hot Country Songs,Sam Hunt,NA,Break Up In A Small Town,0.579,0.776,8,-5.365,1,0.173,0.0749,0,0.239,0.434,136.044,audio_features,229880,4
+8,2016,Hot Country Songs,Maren Morris,NA,My Church,0.517,0.743,9,-4.336,1,0.0363,0.243,3.36e-6,0.107,0.664,76.979,audio_features,197931,4
+9,2016,Hot Country Songs,Blake Shelton,NA,Came Here To Forget,0.613,0.667,1,-6.874,0,0.029,0.356,1.29e-5,0.111,0.481,130.023,audio_features,220413,4
+10,2016,Hot Country Songs,Kelsea Ballerini,NA,Peter Pan,0.514,0.659,1,-6.142,1,0.0309,0.0284,0,0.266,0.463,76.483,audio_features,200040,4
+11,2016,Hot Country Songs,Luke Bryan,NA,"Huntin', Fishin' & Lovin' Every Day",0.546,0.805,0,-4.251,1,0.0348,0.125,9.27e-6,0.148,0.387,77.029,audio_features,278613,4
+12,2016,Hot Country Songs,Dan + Shay,NA,From The Ground Up,0.281,0.58,9,-5.967,1,0.0323,0.333,0,0.122,0.282,151.568,audio_features,253933,3
+13,2016,Hot Country Songs,Jason Aldean,NA,Lights Come On,0.567,0.839,6,-4.048,0,0.0698,0.0489,0,0.103,0.903,160.062,audio_features,194507,4
+14,2016,Hot Country Songs,Carrie Underwood,NA,Church Bells,0.575,0.844,3,-1.772,0,0.0633,0.226,0,0.0538,0.542,87.007,audio_features,193333,4
+15,2016,Hot Country Songs,Dierks Bentley,Elle King,Different For Girls,0.661,0.785,4,-5.623,1,0.0369,0.445,2.66e-4,0.0854,0.371,91.975,audio_features,180360,4
+16,2016,Hot Country Songs,Thomas Rhett,NA,T-Shirt,0.647,0.857,2,-5.381,1,0.0397,0.0318,0,0.0212,0.771,95.996,audio_features,227693,4
+17,2016,Hot Country Songs,Eric Church,NA,Record Year,0.589,0.641,5,-8.12,1,0.0838,0.205,0,0.0864,0.57,160.031,audio_features,179347,4
+18,2016,Hot Country Songs,Old Dominion,NA,Snapback,0.687,0.793,5,-3.577,1,0.0333,0.305,3.23e-6,0.1,0.673,100.991,audio_features,206507,4
+19,2016,Hot Country Songs,Chris Young Duet With Cassadee Pope,NA,Think Of You,0.632,0.323,10,-14.042,0,0.951,0.811,0,0.102,0.769,171.053,audio_features,46253,4
+20,2016,Hot Country Songs,Kenny Chesney,P!nk,Setting The World On Fire,0.61,0.822,0,-4.422,1,0.0355,0.0171,1.88e-6,0.093,0.437,93.993,audio_features,217467,4
+21,2016,Hot Country Songs,Luke Bryan,Karen Fairchild,Home Alone Tonight,0.498,0.968,8,-1.18,1,0.113,0.076,0,0.0947,0.491,161.989,audio_features,190773,4
+22,2016,Hot Country Songs,Jake Owen,NA,American Country Love Song,0.529,0.891,8,-4.36,1,0.043,0.0457,0,0.0942,0.329,104.031,audio_features,199747,4
+23,2016,Hot Country Songs,Cole Swindell,NA,Middle Of A Memory,0.531,0.746,11,-4.228,1,0.0329,0.0972,0,0.102,0.304,139.788,audio_features,226307,4
+24,2016,Hot Country Songs,Brett Eldredge,NA,Drunk On Your Love,0.443,0.831,11,-5.606,1,0.0616,0.414,0,0.204,0.588,182.064,audio_features,173960,4
+25,2016,Hot Country Songs,Keith Urban,NA,Wasted Time,0.626,0.831,7,-5.69,1,0.0481,0.0628,0,0.0799,0.304,100.009,audio_features,233827,4
+26,2016,Hot Country Songs,Sam Hunt,NA,Make You Miss Me,0.614,0.472,7,-6.626,1,0.0297,0.158,0,0.111,0.168,146.005,audio_features,225693,4
+27,2016,Hot Country Songs,Florida Georgia Line,NA,Confession,0.556,0.873,1,-5.056,1,0.0348,0.101,1.31e-4,0.176,0.48,104.986,audio_features,190640,4
+28,2016,Hot Country Songs,Chris Lane,NA,Fix,0.532,0.883,0,-2.743,0,0.0352,0.0951,0,0.304,0.7,99.995,audio_features,190240,4
+29,2016,Hot Country Songs,Carrie Underwood,NA,Heartbeat,0.54,0.766,1,-4.478,1,0.05,0.606,0,0.0903,0.435,139.999,audio_features,209920,4
+30,2016,Hot Country Songs,Miranda Lambert,NA,Vice,0.568,0.562,9,-7.775,1,0.0418,0.101,6.16e-5,0.363,0.247,133.647,audio_features,240280,4
+31,2016,Hot Country Songs,Billy Currington,NA,It Don't Hurt Like It Used To,0.503,0.824,3,-4.039,1,0.0524,0.083,0,0.21,0.448,161.981,audio_features,184506,4
+32,2016,Hot Country Songs,Dustin Lynch,NA,Mind Reader,0.394,0.8,4,-4.17,0,0.0413,0.0266,0,0.184,0.525,162.053,audio_features,185413,4
+33,2016,Hot Country Songs,Rascal Flatts,NA,I Like The Sound Of That,0.611,0.8,0,-5.61,1,0.0377,0.257,0,0.194,0.527,89.974,audio_features,209280,4
+34,2016,Hot Country Songs,Brett Young,NA,Sleep Without You,0.626,0.707,5,-5.755,0,0.0425,0.0169,0,0.0769,0.653,88.543,audio_features,188467,4
+35,2016,Hot Country Songs,Justin Moore,NA,You Look Like I Need A Drink,0.608,0.841,11,-3.626,1,0.028,0.0028,0,0.0834,0.917,106.004,audio_features,187480,4
+36,2016,Hot Country Songs,Chris Stapleton,NA,Nobody To Blame,0.534,0.666,9,-9.471,1,0.0335,0.0143,0.0615,0.113,0.59,87.401,audio_features,244147,4
+37,2016,Hot Country Songs,Zac Brown Band,NA,Beautiful Drug,0.61,0.857,8,-5.267,0,0.0877,0.0424,2e-6,0.128,0.373,125.838,audio_features,191600,4
+38,2016,Hot Country Songs,Granger Smith,NA,Backroad Song,0.488,0.833,11,-6.571,1,0.0437,0.0352,0.0172,0.34,0.751,174.006,audio_features,236787,4
+39,2016,Hot Country Songs,Keith Urban,NA,Blue Ain't Your Color,0.686,0.417,7,-7.787,1,0.0363,0.606,1.79e-6,0.0844,0.451,82.407,audio_features,230600,3
+40,2016,Hot Country Songs,Blake Shelton,NA,She's Got A Way With Words,0.616,0.697,3,-5.952,1,0.0295,0.326,2.18e-5,0.0827,0.68,148.93,audio_features,190987,4
+41,2016,Hot Country Songs,Florida Georgia Line,Tim McGraw,May We All,0.488,0.915,7,-4.255,1,0.0389,0.0406,0,0.351,0.646,75.019,audio_features,226173,4
+42,2016,Hot Country Songs,Tucker Beathard,NA,Rock On,0.629,0.465,2,-8.58,1,0.0306,1.59e-4,0.427,0.0809,0.513,156.035,audio_features,214533,4
+43,2016,Hot Country Songs,LOCASH,NA,I Know Somebody,0.505,0.903,1,-3.699,1,0.037,0.0356,0,0.127,0.491,88.986,audio_features,197830,4
+44,2016,Hot Country Songs,Luke Bryan,NA,Move,0.569,0.946,5,-0.698,0,0.0808,0.00873,0,0.0903,0.778,103.991,audio_features,227413,4
+45,2016,Hot Country Songs,William Michael Morgan,NA,I Met A Girl,0.512,0.545,2,-10.154,1,0.0294,0.111,0.00177,0.135,0.346,83.94,audio_features,201533,4
+46,2016,Hot Country Songs,Kenny Chesney,NA,Noise,0.58,0.799,0,-4.146,1,0.028,0.0095,0,0.0925,0.583,109.965,audio_features,203760,4
+47,2016,Hot Country Songs,David Nail,NA,Night's On Fire,0.54,0.776,4,-4.155,1,0.043,0.243,0,0.378,0.784,164.046,audio_features,189733,4
+48,2016,Hot Country Songs,Keith Urban,NA,Break On Me.,0.618,0.746,8,-7.1,1,0.0311,0.387,2.15e-4,0.108,0.455,87.005,audio_features,208360,4
+49,2016,Hot Country Songs,Jason Aldean,NA,A Little More Summertime,0.482,0.823,9,-4.446,1,0.0661,0.0386,3.69e-5,0.0948,0.451,167.665,audio_features,219547,4
+50,2016,Hot Country Songs,Lee Brice,NA,That Don't Sound Like You,0.543,0.589,4,-9.496,1,0.0421,0.0236,2.99e-5,0.0798,0.255,129.813,audio_features,210573,4
+51,2016,Hot Country Songs,Old Dominion,NA,Song For Another Time,0.497,0.805,11,-3.995,1,0.0332,0.125,0,0.167,0.696,166.048,audio_features,191827,4
+52,2016,Hot Country Songs,Brothers Osborne,NA,Stay A Little Longer,0.555,0.89,6,-5.533,1,0.0309,0.0414,0.131,0.147,0.513,96.987,audio_features,335267,4
+53,2016,Hot Country Songs,Cam,NA,Burning House,0.728,0.253,0,-8.427,1,0.0304,0.887,1.11e-5,0.133,0.457,140.923,audio_features,231333,4
+54,2016,Hot Country Songs,Chase Bryant,NA,Little Bit Of You,0.612,0.865,1,-4.277,1,0.0424,0.0639,0,0.0801,0.643,121.972,audio_features,186240,4
+55,2016,Hot Country Songs,Brett Eldredge,NA,Wanna Be That Song,0.518,0.686,9,-4.911,1,0.0313,0.114,0,0.114,0.334,144.065,audio_features,236227,4
+56,2016,Hot Country Songs,Frankie Ballard,NA,It All Started With A Beer,0.541,0.505,2,-8.067,1,0.0254,0.405,0,0.131,0.367,74.004,audio_features,237800,4
+57,2016,Hot Country Songs,Randy Houser,NA,We Went,0.646,0.882,4,-3.77,0,0.0371,0.097,0,0.311,0.544,101.997,audio_features,179360,4
+58,2016,Hot Country Songs,Kelsea Ballerini,NA,Dibs,0.638,0.733,4,-4.7,1,0.052,0.231,0,0.103,0.651,87.999,audio_features,183947,4
+59,2016,Hot Country Songs,Chris Young,NA,I'm Comin' Over,0.575,0.845,10,-3.838,1,0.035,0.0282,0,0.0814,0.376,127.997,audio_features,197280,4
+60,2016,Hot Country Songs,Maren Morris,NA,80s Mercedes,0.485,0.834,9,-5.413,1,0.0715,0.0665,0,0.28,0.659,90.933,audio_features,211767,4
+61,2016,Hot Country Songs,Zac Brown Band,NA,Castaway,0.634,0.78,8,-4.928,1,0.0477,0.161,0,0.112,0.93,101.066,audio_features,188053,4
+62,2016,Hot Country Songs,Chris Stapleton,NA,Parachute,0.642,0.762,6,-7.411,1,0.0296,0.00967,5.72e-5,0.182,0.605,113.038,audio_features,253200,4
+63,2016,Hot Country Songs,Chris Stapleton,NA,Tennessee Whiskey,0.392,0.37,9,-10.888,1,0.0298,0.205,0.0096,0.0821,0.512,48.718,audio_features,293293,4
+64,2016,Hot Country Songs,Jason Aldean,NA,Gonna Know We Were Here,0.447,0.896,9,-5.57,1,0.173,0.0339,0,0.882,0.533,173.852,audio_features,224067,4
+65,2016,Hot Country Songs,Drake White,NA,Livin' The Dream,0.603,0.862,8,-4.461,1,0.0429,0.0153,0,0.115,0.396,98.075,audio_features,187827,4
+66,2016,Hot Country Songs,Brothers Osborne,NA,21 Summer,0.644,0.89,2,-6.993,1,0.0332,0.0246,2.57e-5,0.103,0.619,112.027,audio_features,214387,4
+67,2016,Hot Country Songs,Jana Kramer,NA,I Got The Boy,0.625,0.569,0,-5.954,1,0.0271,0.26,0,0.127,0.361,149.987,audio_features,201013,4
+68,2016,Hot Country Songs,Kip Moore,NA,Running For You,0.678,0.643,2,-5.934,1,0.0417,0.018,3.73e-5,0.0717,0.719,156.04,audio_features,212720,4
+69,2016,Hot Country Songs,LOCASH,NA,I Love This Life,0.586,0.927,2,-3.014,1,0.0547,0.0164,7.24e-6,0.153,0.549,111.977,audio_features,208864,4
+70,2016,Hot Country Songs,Blake Shelton,NA,Gonna,0.667,0.886,4,-5.12,1,0.0387,0.0265,0,0.0759,0.948,146.076,audio_features,182947,4
+71,2016,Hot Country Songs,Big & Rich,Tim McGraw,Lovin' Lately,0.598,0.722,4,-5.544,1,0.0367,0.0443,0,0.127,0.752,153.924,audio_features,218600,4
+72,2016,Hot Country Songs,Thomas Rhett,NA,Vacation,0.636,0.824,1,-5.781,0,0.0409,0.00546,1.71e-4,0.1,0.953,137.055,audio_features,223253,4
+73,2016,Hot Country Songs,Eric Church,NA,Mr. Misunderstood,0.589,0.641,5,-8.12,1,0.0838,0.205,0,0.0864,0.57,160.031,audio_features,179347,4
+74,2016,Hot Country Songs,Tim McGraw,NA,How I'll Always Be,0.578,0.825,2,-4.693,1,0.0331,0.312,1.4e-5,0.0912,0.654,93.035,audio_features,213453,4
+75,2016,Hot Country Songs,"Artists Of Then, Now & Forever",NA,Forever Country,0.2,0.698,7,-5.873,1,0.0399,0.413,1.69e-5,0.0925,0.132,89.998,audio_features,242480,4
+76,2016,Hot Country Songs,Jennifer Nettles,NA,Unlove You,0.379,0.421,0,-7.062,1,0.0325,0.523,4.04e-6,0.0719,0.114,139.225,audio_features,234440,3
+77,2016,Hot Country Songs,Brantley Gilbert,NA,Stone Cold Sober,0.468,0.821,9,-5.606,1,0.0371,0.0252,6.26e-6,0.083,0.452,147.929,audio_features,230573,4
+78,2016,Hot Country Songs,Brad Paisley,Demi Lovato,Without A Fight,0.583,0.862,0,-5.804,1,0.0337,0.00492,0,0.12,0.671,112.953,audio_features,234587,4
+79,2016,Hot Country Songs,Luke Bryan,NA,Strip It Down,0.629,0.878,9,-3.535,1,0.0443,0.392,0,0.0899,0.714,137.989,audio_features,241613,4
+80,2016,Hot Country Songs,Brad Paisley,NA,Country Nation,0.387,0.861,4,-5.529,1,0.0413,0.0389,4.7e-4,0.1,0.482,177.94,audio_features,225413,4
+81,2016,Hot Country Songs,Tim McGraw,NA,Top Of The World,0.675,0.791,8,-5.64,1,0.0383,0.29,0,0.485,0.943,141.217,audio_features,233973,4
+82,2016,Hot Country Songs,Hillary Scott & The Scott Family,NA,Thy Will,0.373,0.506,0,-5.404,0,0.0273,0.718,1.03e-6,0.118,0.123,157.742,audio_features,236200,3
+83,2016,Hot Country Songs,Carrie Underwood,NA,Smoke Break,0.453,0.839,11,-3.702,1,0.0511,0.0513,0,0.348,0.55,160.16,audio_features,198333,4
+84,2016,Hot Country Songs,Carrie Underwood,NA,Dirty Laundry,0.456,0.874,10,-4.129,0,0.114,0.0595,1.12e-5,0.111,0.5,200.179,audio_features,204093,4
+85,2016,Hot Country Songs,Tyler Farr,NA,Better In Boots,0.614,0.805,7,-5.34,1,0.0439,0.00445,2.98e-5,0.0604,0.691,80.02,audio_features,176093,4
+86,2016,Hot Country Songs,Dustin Lynch,NA,Seein' Red,0.651,0.808,1,-4.731,0,0.0435,0.054,0,0.0482,0.858,100.993,audio_features,194893,4
+87,2016,Hot Country Songs,Chris Young,Vince Gill,Sober Saturday Night,0.477,0.672,1,-5.234,1,0.0306,0.049,0,0.355,0.263,139.864,audio_features,194560,4
+88,2016,Hot Country Songs,Chris Stapleton,NA,Fire Away,0.559,0.301,9,-9.066,1,0.0297,0.055,0.00979,0.101,0.177,116.123,audio_features,244333,3
+89,2016,Hot Country Songs,Granger Smith,NA,If The Boot Fits,0.528,0.928,3,-5.743,1,0.0456,0.0252,2.88e-6,0.0467,0.885,162.069,audio_features,170093,4
+90,2016,Hot Country Songs,Michael Ray,NA,Real Men Love Jesus,0.446,0.722,2,-4.537,1,0.0349,0.00614,4.8e-5,0.127,0.389,76.131,audio_features,191080,4
+91,2016,Hot Country Songs,Maddie & Tae,NA,Shut Up And Fish,0.609,0.882,3,-2.683,1,0.0526,0.258,1.36e-6,0.315,0.857,126.041,audio_features,198493,4
+92,2016,Hot Country Songs,Canaan Smith,NA,Hole In A Bottle,0.682,0.795,8,-5.503,0,0.0295,0.0381,0,0.203,0.712,112.99,audio_features,156613,4
+93,2016,Hot Country Songs,High Valley,NA,Make You Mine,0.576,0.892,0,-4.178,1,0.0392,0.12,0,0.131,0.522,123.074,audio_features,211613,3
+94,2016,Hot Country Songs,Dan + Shay,NA,Nothin' Like You,0.589,0.704,4,-4.772,1,0.0303,0.151,0,0.067,0.437,84.956,audio_features,186253,4
+95,2016,Hot Country Songs,Kane Brown,NA,Used To Love You Sober,0.525,0.674,1,-6.053,1,0.0282,0.0405,0,0.339,0.431,147.978,audio_features,181680,4
+96,2016,Hot Country Songs,Brantley Gilbert,NA,The Weekend,0.511,0.812,6,-4.763,0,0.0464,0.0496,1.64e-6,0.0829,0.692,81.992,audio_features,187760,4
+97,2016,Hot Country Songs,Cam,NA,Mayday,0.524,0.68,1,-5.918,0,0.0736,0.0641,0.0164,0.124,0.142,151.666,audio_features,216080,4
+98,2016,Hot Country Songs,Lauren Alaina,NA,Road Less Traveled,0.611,0.886,0,-4.673,1,0.0343,0.0551,1.1e-6,0.247,0.27,112.988,audio_features,216267,4
+99,2016,Hot Country Songs,Thomas Rhett,NA,Star Of The Show,0.691,0.624,7,-5.874,1,0.027,0.14,0,0.168,0.662,101.988,audio_features,181200,4
+100,2016,Hot Country Songs,Eric Church,Rhiannon Giddens,Kill A Word,0.651,0.732,2,-8.037,1,0.0381,0.0164,1.58e-6,0.0925,0.638,85.023,audio_features,199213,4
+1,2016,Hot R&B/Hip-Hop Songs,Drake,WizKid & Kyla,One Dance,0.796,0.61,1,-5.857,1,0.0516,0.00842,0.00286,0.351,0.391,103.99,audio_features,173987,4
+2,2016,Hot R&B/Hip-Hop Songs,Desiigner,NA,Panda,0.72,0.748,10,-5.522,0,0.393,0.0235,0,0.369,0.246,145.22,audio_features,247867,4
+3,2016,Hot R&B/Hip-Hop Songs,Rihanna,Drake,Work,0.725,0.534,11,-6.238,1,0.0946,0.0752,0,0.0919,0.558,91.974,audio_features,219320,4
+4,2016,Hot R&B/Hip-Hop Songs,Rihanna,NA,Needed Me,0.671,0.314,5,-8.091,0,0.244,0.11,0,0.0825,0.296,110.898,audio_features,191600,4
+5,2016,Hot R&B/Hip-Hop Songs,G-Eazy x Bebe Rexha,NA,"Me, Myself & I",0.819,0.543,0,-8.277,0,0.0606,0.0667,2.31e-5,0.0878,0.245,112.107,audio_features,252395,4
+6,2016,Hot R&B/Hip-Hop Songs,Drake,NA,Hotline Bling,0.903,0.621,2,-8.132,1,0.0578,0.00302,1.86e-4,0.0504,0.553,134.969,audio_features,267067,4
+7,2016,Hot R&B/Hip-Hop Songs,Drake,Rihanna,Too Good,0.82,0.641,4,-7.811,0,0.116,0.0662,5.07e-5,0.102,0.395,117.974,audio_features,263373,4
+8,2016,Hot R&B/Hip-Hop Songs,D.R.A.M.,Lil Yachty,Broccoli,0.825,0.485,8,-11.479,1,0.395,0.187,0,0.0904,0.792,145.976,audio_features,233278,4
+9,2016,Hot R&B/Hip-Hop Songs,Alessia Cara,NA,Here,0.376,0.821,0,-3.974,1,0.104,0.0785,0,0.0823,0.331,120.462,audio_features,199453,4
+10,2016,Hot R&B/Hip-Hop Songs,The Weeknd,NA,The Hills,0.58,0.565,0,-7.065,0,0.0488,0.0671,0,0.135,0.138,112.986,audio_features,242253,4
+11,2016,Hot R&B/Hip-Hop Songs,Drake,NA,Controlla,0.545,0.478,10,-11.066,0,0.287,0.0873,0,0.114,0.317,92.326,audio_features,245227,4
+12,2016,Hot R&B/Hip-Hop Songs,Drake & Future,NA,Jumpman,0.808,0.396,4,-4.967,1,0.124,0.00297,0.925,0.114,0.888,142.002,audio_features,216338,4
+13,2016,Hot R&B/Hip-Hop Songs,Kent Jones,NA,Don't Mind,0.464,0.771,8,-4.503,1,0.336,0.0235,0,0.063,0.69,158.777,audio_features,198237,4
+14,2016,Hot R&B/Hip-Hop Songs,Bryson Tiller,NA,Don't,0.765,0.356,11,-5.556,0,0.196,0.222,0,0.0963,0.19,97.001,audio_features,198293,4
+15,2016,Hot R&B/Hip-Hop Songs,Future,The Weeknd,Low Life,0.722,0.331,8,-7.789,1,0.0725,0.337,0.283,0.146,0.102,143.974,audio_features,313547,4
+16,2016,Hot R&B/Hip-Hop Songs,DJ Khaled,Drake,For Free,0.916,0.571,10,-8.241,0,0.2,0.0173,1.11e-6,0.153,0.498,103.521,audio_features,183695,4
+17,2016,Hot R&B/Hip-Hop Songs,The Weeknd,Daft Punk,Starboy,0.678,0.588,7,-7.015,1,0.276,0.141,6.35e-6,0.137,0.486,186.005,audio_features,230453,4
+18,2016,Hot R&B/Hip-Hop Songs,Kevin Gates,NA,2 Phones,0.895,0.681,7,-5.267,0,0.358,0.157,0,0.189,0.554,121.918,audio_features,240000,4
+19,2016,Hot R&B/Hip-Hop Songs,Jeremih,NA,Oui,0.715,0.703,5,-3.825,1,0.0503,0.192,0,0.113,0.596,119.749,audio_features,238320,4
+20,2016,Hot R&B/Hip-Hop Songs,The Weeknd,NA,In The Night,0.505,0.68,7,-4.99,1,0.0713,0.0796,0,0.0465,0.539,168.021,audio_features,235653,3
+21,2016,Hot R&B/Hip-Hop Songs,Yo Gotti,Nicki Minaj,Down In The DM,0.776,0.662,1,-7.016,0,0.0489,0.00157,2.1e-5,0.0887,0.324,152.927,audio_features,182733,4
+22,2016,Hot R&B/Hip-Hop Songs,Tory Lanez,NA,Luv,0.539,0.528,11,-8.113,0,0.252,0.0108,0,0.117,0.252,190.169,audio_features,228640,4
+23,2016,Hot R&B/Hip-Hop Songs,Beyonce,NA,Sorry,0.775,0.598,2,-7.274,1,0.0535,0.00175,4.44e-6,0.253,0.356,129.988,audio_features,232560,4
+24,2016,Hot R&B/Hip-Hop Songs,Tory Lanez,NA,Say It,0.546,0.529,11,-10.511,0,0.0583,0.0862,6.5e-6,0.124,0.247,107.331,audio_features,237787,4
+25,2016,Hot R&B/Hip-Hop Songs,"Lil Wayne, Wiz Khalifa & Imagine Dragons With Logic & Ty Dolla $ign Feat. X Ambassadors",NA,Sucker For Pain,0.502,0.786,9,-4.378,0,0.317,0.255,0,0.65,0.739,169.021,audio_features,243491,4
+26,2016,Hot R&B/Hip-Hop Songs,Bryson Tiller,NA,Exchange,0.53,0.433,6,-10.598,1,0.185,0.108,0,0.135,0.274,160.14,audio_features,194613,4
+27,2016,Hot R&B/Hip-Hop Songs,Travis Scott,NA,Antidote,0.713,0.526,1,-5.046,1,0.032,0.00767,1.48e-4,0.124,0.131,131.05,audio_features,262693,4
+28,2016,Hot R&B/Hip-Hop Songs,Drake,The Throne,Pop Style,0.718,0.458,4,-10.024,0,0.117,0.187,3.43e-6,0.105,0.0514,132.998,audio_features,212947,4
+29,2016,Hot R&B/Hip-Hop Songs,Fetty Wap,Remy Boyz,679,0.618,0.717,7,-5.738,1,0.318,0.00256,0,0.625,0.603,190.05,audio_features,196693,4
+31,2016,Hot R&B/Hip-Hop Songs,Post Malone,NA,White Iverson,0.675,0.562,7,-7.678,1,0.0352,0.233,0,0.0816,0.309,130.098,audio_features,256533,4
+32,2016,Hot R&B/Hip-Hop Songs,O.T. Genasis,Young Dolph,Cut It,0.875,0.673,7,-4.184,1,0.0932,0.135,0,0.292,0.231,130,audio_features,222600,4
+33,2016,Hot R&B/Hip-Hop Songs,Chris Brown,NA,Back To Sleep,0.647,0.646,9,-5.483,0,0.243,0.0424,0,0.0888,0.721,92.981,audio_features,201253,4
+34,2016,Hot R&B/Hip-Hop Songs,Usher,Young Thug,No Limit,0.717,0.523,10,-6.506,0,0.0611,0.0799,0,0.206,0.282,127.047,audio_features,228613,4
+35,2016,Hot R&B/Hip-Hop Songs,Future,NA,Wicked,0.718,0.679,11,-5.899,0,0.0706,0.00191,0.0104,0.385,0.205,157.97,audio_features,173347,4
+36,2016,Hot R&B/Hip-Hop Songs,Desiigner,NA,Tiimmy Turner,0.602,0.725,6,-3.054,1,0.0393,0.174,0,0.0786,0.304,122.803,audio_features,239853,4
+37,2016,Hot R&B/Hip-Hop Songs,Rae Sremmurd,Gucci Mane,Black Beatles,0.794,0.632,0,-6.163,1,0.0649,0.142,0,0.128,0.355,145.926,audio_features,291893,4
+38,2016,Hot R&B/Hip-Hop Songs,Kevin Gates,NA,Really Really,0.762,0.666,0,-6.055,1,0.0916,0.00427,0,0.127,0.278,118.97,audio_features,232093,4
+39,2016,Hot R&B/Hip-Hop Songs,Kanye West,NA,Father Stretch My Hands Pt. 1,0.714,0.566,7,-4.408,1,0.056,0.142,1.25e-6,0.57,0.449,113.074,audio_features,135920,4
+40,2016,Hot R&B/Hip-Hop Songs,Drake,NA,Summer Sixteen,0.592,0.455,1,-7.698,1,0.393,0.00322,3.72e-5,0.154,0.0633,146.316,audio_features,202451,4
+41,2016,Hot R&B/Hip-Hop Songs,Chance The Rapper,Lil Wayne & 2 Chainz,No Problem,0.652,0.795,11,-5.192,0,0.174,0.156,0,0.123,0.788,135.018,audio_features,304607,4
+42,2016,Hot R&B/Hip-Hop Songs,DJ Khaled,Jay Z & Future,I Got The Keys,0.686,0.623,1,-3.425,1,0.13,0.00287,0.00145,0.219,0.176,140.171,audio_features,219759,4
+43,2016,Hot R&B/Hip-Hop Songs,Lil Uzi Vert,NA,Money Longer,0.795,0.568,5,-7.817,0,0.142,0.0541,0,0.108,0.478,136.173,audio_features,198944,4
+44,2016,Hot R&B/Hip-Hop Songs,MadeinTYO,NA,Uber Everywhere,0.779,0.455,1,-15.025,1,0.28,0.0542,0,0.177,0.197,140.181,audio_features,153429,4
+45,2016,Hot R&B/Hip-Hop Songs,ScHoolboy Q,Kanye West,THat Part,0.927,0.535,6,-7.59,0,0.0911,0.0855,0,0.136,0.336,112.96,audio_features,313573,4
+46,2016,Hot R&B/Hip-Hop Songs,Young Thug,NA,Best Friend,0.959,0.598,8,-5.534,1,0.0713,0.0358,0,0.358,0.408,127.029,audio_features,213000,4
+47,2016,Hot R&B/Hip-Hop Songs,The Weeknd,NA,Can't Feel My Face,0.705,0.769,9,-5.526,0,0.0426,0.112,0,0.105,0.59,107.939,audio_features,213520,4
+48,2016,Hot R&B/Hip-Hop Songs,Beyonce,NA,Hold Up,0.524,0.397,0,-11.936,1,0.405,0.745,0,0.521,0.552,80.744,audio_features,221093,4
+49,2016,Hot R&B/Hip-Hop Songs,PARTYNEXTDOOR,Drake,Come And See Me,0.717,0.347,11,-10.265,0,0.0636,0.0511,2.43e-6,0.087,0.0589,84.987,audio_features,235477,4
+50,2016,Hot R&B/Hip-Hop Songs,Zay Hilfigerrr & Zayion McCall,NA,Juju On That Beat (TZ Anthem),0.808,0.919,1,-5.391,1,0.167,0.00476,1.11e-6,0.0625,0.64,154.009,audio_features,102857,4
+51,2016,Hot R&B/Hip-Hop Songs,Rob $tone,J. Davi$ & Spooks,Chill Bill,0.886,0.427,6,-10.028,1,0.145,0.0312,9.9e-4,0.0906,0.23,108.034,audio_features,177184,4
+52,2016,Hot R&B/Hip-Hop Songs,Young Thug And Travis Scott,Quavo,Pick Up The Phone,0.787,0.58,2,-9.887,1,0.0378,0.393,0.742,0.245,0.516,139.547,audio_features,249345,4
+53,2016,Hot R&B/Hip-Hop Songs,Young M.A,NA,OOOUUU,0.64,0.819,7,-4.108,1,0.455,0.533,0,0.156,0.623,166.012,audio_features,234526,4
+54,2016,Hot R&B/Hip-Hop Songs,Wale,NA,My PYT,0.563,0.414,0,-11.409,1,0.37,0.0298,0,0.0854,0.446,193.549,audio_features,235652,4
+55,2016,Hot R&B/Hip-Hop Songs,Lil Yachty,NA,1 Night,0.762,0.476,0,-12.686,1,0.114,0.366,0,0.103,0.375,130.007,audio_features,243270,4
+56,2016,Hot R&B/Hip-Hop Songs,Fetty Wap,NA,Again,0.748,0.733,11,-4.421,0,0.072,0.0062,0,0.329,0.291,93.019,audio_features,312240,4
+57,2016,Hot R&B/Hip-Hop Songs,Drake,NA,Childs Play,0.739,0.472,1,-11.204,1,0.156,0.0145,7.27e-6,0.207,0.289,80.03,audio_features,241400,4
+58,2016,Hot R&B/Hip-Hop Songs,Beyonce,NA,Formation,0.896,0.621,5,-6.857,0,0.237,0.00532,0,0.196,0.818,121.966,audio_features,206080,4
+59,2016,Hot R&B/Hip-Hop Songs,Fetty Wap,NA,Wake Up,0.647,0.673,5,-5.992,1,0.176,0.172,0,0.223,0.527,179.971,audio_features,224000,4
+60,2016,Hot R&B/Hip-Hop Songs,Amine,NA,Caroline,0.941,0.335,5,-10.179,0,0.505,0.17,0,0.262,0.707,120.041,audio_features,209640,4
+61,2016,Hot R&B/Hip-Hop Songs,Kanye West,NA,Famous,0.474,0.741,6,-3.69,1,0.111,0.0602,0,0.115,0.402,174.1,audio_features,196040,4
+62,2016,Hot R&B/Hip-Hop Songs,Lil Uzi Vert,NA,You Was Right,0.843,0.359,0,-7.417,1,0.461,0.069,0,0.12,0.156,81.987,audio_features,163944,4
+63,2016,Hot R&B/Hip-Hop Songs,Dreezy,Jeremih,Body,0.735,0.567,0,-5.962,1,0.0635,0.552,0,0.0659,0.574,149.968,audio_features,232707,4
+64,2016,Hot R&B/Hip-Hop Songs,Drake,NA,Still Here,0.835,0.436,0,-9.602,1,0.176,0.0235,0,0.635,0.234,133.942,audio_features,189853,3
+65,2016,Hot R&B/Hip-Hop Songs,DLOW,NA,Do It Like Me,0.883,0.85,10,-4.053,0,0.361,0.308,0,0.368,0.711,150.138,audio_features,146000,4
+66,2016,Hot R&B/Hip-Hop Songs,Kid Ink,Fetty Wap,Promise,0.797,0.469,8,-8.112,1,0.0646,0.0599,0,0.0753,0.481,103.057,audio_features,224240,4
+67,2016,Hot R&B/Hip-Hop Songs,iLoveMemphis,NA,Hit The Quan,0.741,0.488,8,-8.253,1,0.362,2.35e-4,0,0.0488,0.625,160.018,audio_features,181081,4
+68,2016,Hot R&B/Hip-Hop Songs,Dae Dae,NA,"Wat U Mean (Aye, Aye, Aye)",0.923,0.599,6,-4.888,1,0.238,0.07,1.23e-6,0.0951,0.667,138.024,audio_features,181739,4
+69,2016,Hot R&B/Hip-Hop Songs,Belly,The Weeknd,Might Not,0.792,0.563,1,-4.838,1,0.0793,0.283,0,0.128,0.288,133.996,audio_features,224213,4
+70,2016,Hot R&B/Hip-Hop Songs,YG,Drake & Kamaiyah,Why You Always Hatin?,0.926,0.336,0,-9.326,0,0.594,0.0392,0,0.138,0.38,92.995,audio_features,196600,4
+71,2016,Hot R&B/Hip-Hop Songs,Drake,NA,Hype,0.789,0.608,7,-8.288,1,0.189,0.0244,0,0.368,0.271,129.958,audio_features,209413,4
+73,2016,Hot R&B/Hip-Hop Songs,Rihanna,NA,Kiss It Better,0.619,0.806,3,-4.8,0,0.0483,0.272,0,0.0671,0.877,95,audio_features,253080,4
+74,2016,Hot R&B/Hip-Hop Songs,Drake & Future,NA,Big Rings,0.851,0.422,8,-13.665,0,0.314,0.0202,0,0.189,0.145,132.024,audio_features,225071,4
+75,2016,Hot R&B/Hip-Hop Songs,Ghost Town DJ's,NA,My Boo,0.909,0.448,6,-9.021,0,0.147,5.05e-4,7.83e-6,0.0558,0.878,130.094,audio_features,309847,4
+76,2016,Hot R&B/Hip-Hop Songs,Future,Drake,Where Ya At,0.813,0.453,1,-6.941,1,0.338,0.0933,0,0.14,0.191,161.997,audio_features,208027,4
+77,2016,Hot R&B/Hip-Hop Songs,French Montana,Kodak Black,Lockjaw,0.615,0.648,5,-3.792,0,0.22,0.0411,0,0.277,0.26,169.912,audio_features,223147,4
+78,2016,Hot R&B/Hip-Hop Songs,Missy Elliott,Pharrell Williams,WTF (Where They From),0.932,0.819,8,-3.484,0,0.203,0.0181,6.81e-6,0.0577,0.556,119.941,audio_features,192773,4
+79,2016,Hot R&B/Hip-Hop Songs,21 Savage & Metro Boomin,Future,X,0.664,0.367,1,-14.376,1,0.0837,0.779,0.863,0.106,0.0907,75.507,audio_features,261083,4
+80,2016,Hot R&B/Hip-Hop Songs,Bryson Tiller,NA,Sorry Not Sorry,0.664,0.608,1,-6.093,1,0.214,0.0477,0,0.225,0.262,97.933,audio_features,200760,4
+81,2016,Hot R&B/Hip-Hop Songs,The Weeknd,NA,Acquainted,0.372,0.477,7,-9.838,0,0.0497,0.484,0,0.0844,0.254,101.097,audio_features,348853,4
+82,2016,Hot R&B/Hip-Hop Songs,French Montana,Drake,No Shopping,0.895,0.491,10,-10.261,0,0.246,0.0144,9.88e-4,0.143,0.249,83.505,audio_features,227727,4
+83,2016,Hot R&B/Hip-Hop Songs,2 Chainz,NA,Watch Out,0.901,0.509,8,-6.777,0,0.492,0.842,0,0.0531,0.544,129.924,audio_features,207813,4
+84,2016,Hot R&B/Hip-Hop Songs,Kehlani,NA,Gangsta,0.439,0.447,10,-8.318,0,0.0436,0.111,0,0.303,0.11,121.48,audio_features,177029,4
+85,2016,Hot R&B/Hip-Hop Songs,Rihanna,NA,Sex With Me,0.619,0.539,1,-5.688,0,0.0409,0.326,0,0.106,0.39,112.006,audio_features,206400,4
+86,2016,Hot R&B/Hip-Hop Songs,DJ Drama,"Chris Brown, Skeme & Lyquin",Wishing,0.477,0.647,3,-4.657,0,0.343,0.0872,0,0.119,0.549,109.879,audio_features,252307,4
+87,2016,Hot R&B/Hip-Hop Songs,DeJ Loaf,Big Sean,Back Up,0.816,0.535,9,-8.302,1,0.338,0.147,4.53e-6,0.176,0.435,80.012,audio_features,241267,4
+88,2016,Hot R&B/Hip-Hop Songs,Rae Sremmurd,NA,Look Alive,0.786,0.583,0,-7.415,1,0.0393,0.0552,1.84e-6,0.326,0.229,120.024,audio_features,228000,4
+89,2016,Hot R&B/Hip-Hop Songs,Drake,Future,Grammys,0.711,0.441,1,-9.516,1,0.466,0.00201,2.59e-6,0.08,0.115,145.198,audio_features,220427,4
+90,2016,Hot R&B/Hip-Hop Songs,Yo Gotti,E-40,Law,0.882,0.699,2,-5.572,1,0.249,0.0196,0,0.0469,0.42,145.008,audio_features,257267,4
+91,2016,Hot R&B/Hip-Hop Songs,DJ ESCO,Future & Lil Uzi Vert,Too Much Sauce,0.96,0.547,6,-6.992,0,0.0786,0.0496,0,0.216,0.186,121.01,audio_features,223093,4
+92,2016,Hot R&B/Hip-Hop Songs,Nelly,Jeremih,The Fix,0.812,0.479,8,-6.47,1,0.0429,0.0485,0,0.102,0.0873,95.505,audio_features,173045,4
+93,2016,Hot R&B/Hip-Hop Songs,YFN Lucci,Migos & Trouble,Key To The Streets,0.768,0.687,6,-5.454,0,0.113,0.123,0,0.113,0.294,140.064,audio_features,281987,4
+94,2016,Hot R&B/Hip-Hop Songs,Chris Brown,NA,Grass Ain't Greener,0.644,0.601,10,-5.097,0,0.0496,0.388,0,0.0884,0.518,133.946,audio_features,201422,4
+95,2016,Hot R&B/Hip-Hop Songs,Kanye West,NA,Fade,0.756,0.766,9,-5.793,0,0.088,0.1,0,0.313,0.288,105.986,audio_features,193748,4
+96,2016,Hot R&B/Hip-Hop Songs,A$AP Ferg,Future,New Level,0.526,0.655,1,-4.208,0,0.326,0.0566,0,0.116,0.156,121.127,audio_features,267212,4
+97,2016,Hot R&B/Hip-Hop Songs,Young Greatness,NA,Moolah,0.604,0.571,9,-5.732,1,0.241,0.0264,0,0.302,0.23,62.912,audio_features,204027,4
+98,2016,Hot R&B/Hip-Hop Songs,Drake,PARTYNEXTDOOR,With You,0.876,0.41,1,-10.034,1,0.262,0.132,1.88e-4,0.112,0.816,127.956,audio_features,195053,4
+99,2016,Hot R&B/Hip-Hop Songs,Future,NA,Stick Talk,0.729,0.672,7,-6.749,1,0.282,0.0265,0,0.244,0.595,159.903,audio_features,171333,4
+100,2016,Hot R&B/Hip-Hop Songs,DJ Luke Nasty,NA,Might Be,0.448,0.782,9,-6.766,0,0.458,0.378,0,0.114,0.694,74.037,audio_features,210704,4
+1,2017,Hot Country Songs,Sam Hunt,NA,Body Like A Back Road,0.731,0.469,5,-7.226,1,0.0326,0.463,1.04e-6,0.103,0.631,98.963,audio_features,165387,4
+2,2017,Hot Country Songs,Brett Young,NA,In Case You Didn't Know,0.607,0.536,10,-7.306,1,0.0305,0.386,0,0.102,0.434,147.986,audio_features,224853,4
+3,2017,Hot Country Songs,Luke Combs,NA,Hurricane,0.464,0.813,10,-6.185,1,0.0416,0.0153,0,0.254,0.516,75.975,audio_features,222533,4
+4,2017,Hot Country Songs,Kane Brown,Lauren Alaina,What Ifs,0.612,0.799,10,-4.603,1,0.0275,0.00898,0,0.172,0.687,125.976,audio_features,188253,4
+5,2017,Hot Country Songs,Dustin Lynch,NA,Small Town Boy,0.554,0.743,9,-6.016,1,0.0287,0.0251,0,0.359,0.673,72.997,audio_features,205733,4
+6,2017,Hot Country Songs,Jon Pardi,NA,Dirt On My Boots,0.685,0.783,11,-4.152,1,0.0276,0.116,0,0.194,0.525,90.008,audio_features,201893,4
+7,2017,Hot Country Songs,Keith Urban,Carrie Underwood,The Fighter,0.681,0.845,11,-5.147,0,0.0525,0.0304,0,0.197,0.761,132.023,audio_features,184040,4
+8,2017,Hot Country Songs,Thomas Rhett,Maren Morris,Craving You,0.613,0.839,9,-3.799,0,0.0352,8.54e-4,0,0.341,0.526,104.975,audio_features,223627,4
+9,2017,Hot Country Songs,Lady Antebellum,NA,You Look Good,0.653,0.911,0,-4.635,1,0.0439,0.0338,6.59e-4,0.081,0.942,152.043,audio_features,181000,4
+10,2017,Hot Country Songs,Little Big Town,NA,Better Man,0.514,0.836,5,-3.663,1,0.0381,0.112,0,0.0878,0.501,143.888,audio_features,263120,4
+11,2017,Hot Country Songs,Luke Combs,NA,When It Rains It Pours,0.551,0.801,6,-5.069,1,0.0303,0.013,6.03e-6,0.265,0.625,128.027,audio_features,240760,4
+12,2017,Hot Country Songs,Dylan Scott,NA,My Girl,0.652,0.719,1,-7.251,1,0.033,0.0353,0,0.108,0.24,94.969,audio_features,197640,4
+13,2017,Hot Country Songs,Keith Urban,NA,Blue Ain't Your Color,0.686,0.417,7,-7.787,1,0.0363,0.606,1.79e-6,0.0844,0.451,82.407,audio_features,230600,3
+14,2017,Hot Country Songs,Florida Georgia Line,Backstreet Boys,"God, Your Mama, And Me",0.439,0.802,7,-3.644,1,0.054,0.333,0,0.377,0.725,168.032,audio_features,183413,4
+15,2017,Hot Country Songs,Midland,NA,Drinkin' Problem,0.622,0.763,9,-6.4,1,0.0263,0.055,8.91e-6,0.315,0.621,102,audio_features,221467,4
+16,2017,Hot Country Songs,Jon Pardi,NA,Heartache On The Dance Floor,0.594,0.824,9,-4.252,1,0.0458,0.0617,0,0.0861,0.671,116.005,audio_features,205200,4
+17,2017,Hot Country Songs,Old Dominion,NA,No Such Thing As A Broken Heart,0.65,0.782,8,-4.295,1,0.0721,0.295,0,0.107,0.944,171.988,audio_features,176893,4
+18,2017,Hot Country Songs,Dierks Bentley,NA,Black,0.573,0.635,7,-6.621,1,0.0275,5.98e-4,0,0.0845,0.447,144.031,audio_features,197120,4
+19,2017,Hot Country Songs,Carly Pearce,NA,Every Little Thing,0.636,0.428,0,-6.512,1,0.0375,0.434,1.02e-5,0.0903,0.32,139.919,audio_features,181053,4
+20,2017,Hot Country Songs,Jason Aldean,NA,Any Ol' Barstool,0.536,0.722,4,-4.163,1,0.0284,0.312,0,0.117,0.499,143.78,audio_features,203293,4
+21,2017,Hot Country Songs,Cole Swindell,NA,Flatliner,0.555,0.896,0,-3.295,1,0.0388,0.00434,0,0.145,0.578,114.995,audio_features,177067,4
+22,2017,Hot Country Songs,Thomas Rhett,NA,Unforgettable,0.663,0.738,7,-5.48,1,0.0303,0.032,2.25e-4,0.0856,0.825,130.02,audio_features,157080,4
+23,2017,Hot Country Songs,Brothers Osborne,NA,It Ain't My Fault,0.735,0.831,9,-5.898,1,0.0332,0.00166,0.217,0.291,0.756,123.017,audio_features,216800,4
+24,2017,Hot Country Songs,LANCO,NA,Greatest Love Story,0.671,0.617,10,-8.72,1,0.0561,0.401,0,0.119,0.62,147.986,audio_features,222573,4
+25,2017,Hot Country Songs,Maren Morris,NA,I Could Use A Love Song,0.638,0.634,6,-6.474,1,0.0468,0.214,0,0.0866,0.473,92.097,audio_features,196422,4
+26,2017,Hot Country Songs,Dan + Shay,NA,How Not To,0.501,0.836,11,-3.587,0,0.0491,0.208,0,0.152,0.618,159.863,audio_features,192000,4
+27,2017,Hot Country Songs,Blake Shelton,NA,Every Time I Hear That Song,0.523,0.725,2,-5.448,1,0.0339,0.0558,6.96e-6,0.0937,0.528,155.855,audio_features,214800,4
+28,2017,Hot Country Songs,Kip Moore,NA,More Girls Like You,0.555,0.746,2,-5.522,1,0.033,0.00825,0,0.0796,0.712,75.01,audio_features,154707,4
+29,2017,Hot Country Songs,Blake Shelton,NA,A Guy With A Girl,0.552,0.893,0,-4.593,1,0.0383,0.0158,0,0.105,0.777,163.948,audio_features,189467,4
+30,2017,Hot Country Songs,Chris Lane,NA,For Her,0.491,0.904,6,-4.324,1,0.0344,0.0985,0,0.183,0.588,150.007,audio_features,211227,4
+31,2017,Hot Country Songs,Justin Moore,NA,Somebody Else Will,0.488,0.744,2,-4.284,0,0.131,0.0353,0,0.0952,0.59,180.007,audio_features,165173,4
+32,2017,Hot Country Songs,Darius Rucker,NA,If I Told You,0.532,0.64,9,-6.684,1,0.0314,0.344,0,0.361,0.308,84.029,audio_features,212320,4
+33,2017,Hot Country Songs,Rascal Flatts,NA,Yours If You Want It,0.554,0.903,8,-3.152,1,0.0515,0.0103,0,0.107,0.419,112.998,audio_features,206827,4
+34,2017,Hot Country Songs,Kelsea Ballerini,NA,Yeah Boy,0.589,0.809,3,-5.292,1,0.0376,0.231,0,0.0719,0.496,88.965,audio_features,194413,4
+35,2017,Hot Country Songs,Luke Bryan,NA,Fast,0.548,0.898,0,-2.561,0,0.0459,0.225,0,0.1,0.599,145.953,audio_features,206213,4
+36,2017,Hot Country Songs,Thomas Rhett,NA,Star Of The Show,0.691,0.624,7,-5.874,1,0.027,0.14,0,0.168,0.662,101.988,audio_features,181200,4
+37,2017,Hot Country Songs,Brantley Gilbert,NA,The Weekend,0.511,0.812,6,-4.763,0,0.0464,0.0496,1.64e-6,0.0829,0.692,81.992,audio_features,187760,4
+38,2017,Hot Country Songs,Josh Turner,NA,Hometown Girl,0.505,0.79,3,-5.442,0,0.035,0.263,0.0884,0.123,0.445,155.934,audio_features,215080,4
+39,2017,Hot Country Songs,Kenny Chesney,NA,All The Pretty Girls,0.612,0.848,6,-3.736,1,0.0368,0.00916,0,0.366,0.719,120.996,audio_features,212893,4
+40,2017,Hot Country Songs,Jason Aldean,NA,They Don't Know,0.536,0.722,4,-4.163,1,0.0284,0.312,0,0.117,0.499,143.78,audio_features,203293,4
+41,2017,Hot Country Songs,Billy Currington,NA,Do I Make You Wanna,0.549,0.751,9,-5.423,1,0.0299,0.122,0,0.208,0.493,89.953,audio_features,234306,4
+42,2017,Hot Country Songs,Michael Ray,NA,Think A Little Less,0.521,0.805,9,-4.481,1,0.0289,0.124,2.19e-4,0.33,0.527,141.967,audio_features,176987,4
+43,2017,Hot Country Songs,Miranda Lambert,NA,Tin Man,0.425,0.372,0,-10.92,1,0.03,0.861,0.0148,0.0733,0.292,79.456,audio_features,259280,4
+44,2017,Hot Country Songs,Zac Brown Band,NA,My Old Man,0.64,0.196,4,-11.478,1,0.0267,0.819,3.63e-5,0.0978,0.301,143.919,audio_features,227222,4
+45,2017,Hot Country Songs,Chris Janson,NA,Fix A Drink,0.563,0.887,1,-5.013,1,0.0857,0.0297,0,0.352,0.794,158.05,audio_features,188933,4
+46,2017,Hot Country Songs,Eric Church,NA,Round Here Buzz,0.638,0.441,2,-9.064,1,0.0347,0.0422,1.33e-5,0.107,0.473,76.078,audio_features,214627,4
+47,2017,Hot Country Songs,Lauren Alaina,NA,Road Less Traveled,0.611,0.886,0,-4.673,1,0.0343,0.0551,1.1e-6,0.247,0.27,112.988,audio_features,216267,4
+48,2017,Hot Country Songs,Eric Church,Rhiannon Giddens,Kill A Word,0.651,0.732,2,-8.037,1,0.0381,0.0164,1.58e-6,0.0925,0.638,85.023,audio_features,199213,4
+49,2017,Hot Country Songs,Chris Young,NA,Losing Sleep,0.584,0.621,1,-5.703,1,0.0443,0.0715,1.68e-6,0.389,0.634,92.003,audio_features,178253,4
+50,2017,Hot Country Songs,Brad Paisley,NA,Today,0.347,0.632,2,-6.998,1,0.0381,0.539,0.00226,0.121,0.285,74.257,audio_features,229338,3
+51,2017,Hot Country Songs,Florida Georgia Line,Tim McGraw,May We All,0.488,0.915,7,-4.255,1,0.0389,0.0406,0,0.351,0.646,75.019,audio_features,226173,4
+52,2017,Hot Country Songs,Carrie Underwood,NA,Dirty Laundry,0.456,0.874,10,-4.129,0,0.114,0.0595,1.12e-5,0.111,0.5,200.179,audio_features,204093,4
+53,2017,Hot Country Songs,Chris Young,Vince Gill,Sober Saturday Night,0.477,0.672,1,-5.234,1,0.0306,0.049,0,0.355,0.263,139.864,audio_features,194560,4
+54,2017,Hot Country Songs,Garth Brooks,NA,Ask Me How I Know,0.54,0.428,1,-9.584,1,0.0276,0.0178,0.9,0.113,0.278,145.569,audio_features,211570,4
+55,2017,Hot Country Songs,Russell Dickerson,NA,Yours,0.638,0.854,1,-4.664,1,0.11,0.216,0,0.0357,0.859,93.869,audio_features,190640,4
+56,2017,Hot Country Songs,Luke Bryan,NA,Light It Up,0.602,0.929,6,-2.741,0,0.0839,0.118,0,0.103,0.677,130.024,audio_features,177306,4
+57,2017,Hot Country Songs,LOCASH,NA,Ring On Every Finger,0.586,0.92,7,-3.749,1,0.064,0.0241,6.32e-6,0.173,0.639,100.023,audio_features,211960,4
+58,2017,Hot Country Songs,Chris Stapleton,NA,Broken Halos,0.607,0.575,8,-7.066,1,0.0252,0.133,2.52e-6,0.0566,0.504,78.341,audio_features,180907,4
+59,2017,Hot Country Songs,Walker Hayes,NA,You Broke Up With Me,0.846,0.711,0,-7.939,1,0.061,0.496,0,0.247,0.883,120.013,audio_features,197840,4
+60,2017,Hot Country Songs,Dustin Lynch,NA,Seein' Red,0.651,0.808,1,-4.731,0,0.0435,0.054,0,0.0482,0.858,100.993,audio_features,194893,4
+61,2017,Hot Country Songs,Brett Eldredge,NA,Somethin' I'm Good At,0.574,0.937,5,-4.34,1,0.112,0.0453,0,0.242,0.446,103.006,audio_features,217333,4
+62,2017,Hot Country Songs,Brett Eldredge,NA,Wanna Be That Song,0.518,0.686,9,-4.911,1,0.0313,0.114,0,0.114,0.334,144.065,audio_features,236227,4
+63,2017,Hot Country Songs,Tim McGraw & Faith Hill,NA,Speak To A Girl,0.481,0.334,10,-15.486,0,0.0328,0.618,0.937,0.12,0.156,150.94,audio_features,234253,3
+64,2017,Hot Country Songs,Kenny Chesney,NA,Bar At The End Of The World,0.529,0.8,2,-3.726,1,0.031,0.00541,0,0.104,0.687,100.035,audio_features,207307,4
+65,2017,Hot Country Songs,Brett Young,NA,Like I Loved You,0.582,0.568,1,-6.051,1,0.0297,0.196,0,0.0841,0.64,76.025,audio_features,207187,4
+66,2017,Hot Country Songs,Blake Shelton,NA,I'll Name The Dogs,0.348,0.87,4,-5.86,1,0.137,0.171,4.4e-6,0.202,0.763,83.392,audio_features,183640,4
+67,2017,Hot Country Songs,Easton Corbin,NA,A Girl Like You,0.74,0.777,5,-4.405,1,0.0329,0.0178,1.27e-6,0.0665,0.834,104.989,audio_features,217840,4
+68,2017,Hot Country Songs,Florida Georgia Line,NA,Smooth,0.477,0.848,6,-5.419,1,0.0558,0.286,4.77e-5,0.647,0.33,161.014,audio_features,170613,4
+69,2017,Hot Country Songs,Maren Morris,NA,80s Mercedes,0.485,0.834,9,-5.413,1,0.0715,0.0665,0,0.28,0.659,90.933,audio_features,211767,4
+70,2017,Hot Country Songs,Brad Paisley,NA,Last Time For Everything,0.482,0.739,7,-5.476,1,0.0342,0.422,1.87e-5,0.468,0.613,155.932,audio_features,230832,4
+71,2017,Hot Country Songs,Scotty McCreery,NA,Five More Minutes,0.496,0.632,7,-4.933,1,0.0282,0.257,1.07e-6,0.109,0.278,156.034,audio_features,241147,4
+72,2017,Hot Country Songs,Devin Dawson,NA,All On Me,0.634,0.668,5,-5.488,1,0.0291,0.14,0,0.216,0.635,80.989,audio_features,224627,4
+73,2017,Hot Country Songs,Old Dominion,NA,Song For Another Time,0.497,0.805,11,-3.995,1,0.0332,0.125,0,0.167,0.696,166.048,audio_features,191827,4
+74,2017,Hot Country Songs,Trent Harmon,NA,There's A Girl,0.526,0.793,7,-5.869,1,0.0376,0.196,0,0.0778,0.347,97.107,audio_features,214360,4
+75,2017,Hot Country Songs,Kenny Chesney,P!nk,Setting The World On Fire,0.61,0.822,0,-4.422,1,0.0355,0.0171,1.88e-6,0.093,0.437,93.993,audio_features,217467,4
+76,2017,Hot Country Songs,Kelsea Ballerini,NA,Legends,0.577,0.727,4,-5.848,1,0.0319,0.0547,0,0.0891,0.24,112.041,audio_features,244467,4
+77,2017,Hot Country Songs,High Valley,NA,Make You Mine,0.576,0.892,0,-4.178,1,0.0392,0.12,0,0.131,0.522,123.074,audio_features,211613,3
+78,2017,Hot Country Songs,Granger Smith,NA,If The Boot Fits,0.528,0.928,3,-5.743,1,0.0456,0.0252,2.88e-6,0.0467,0.885,162.069,audio_features,170093,4
+79,2017,Hot Country Songs,Morgan Wallen,NA,The Way I Talk,0.604,0.879,4,-3.389,1,0.0323,0.0498,0,0.0936,0.765,137.993,audio_features,208280,4
+80,2017,Hot Country Songs,Miranda Lambert,NA,We Should Be Friends,0.622,0.701,0,-6.212,1,0.118,0.325,0,0.123,0.777,161.094,audio_features,170747,4
+81,2017,Hot Country Songs,Old Dominion,NA,Written In The Sand,0.725,0.437,6,-9.602,1,0.0575,0.593,0,0.0842,0.759,83.985,audio_features,184080,4
+82,2017,Hot Country Songs,Lee Brice,NA,Boy,0.498,0.408,6,-7.946,1,0.0331,0.644,0,0.0993,0.383,78.942,audio_features,198973,4
+83,2017,Hot Country Songs,Tim McGraw,NA,How I'll Always Be,0.578,0.825,2,-4.693,1,0.0331,0.312,1.4e-5,0.0912,0.654,93.035,audio_features,213453,4
+84,2017,Hot Country Songs,Aaron Watson,NA,Outta Style,0.617,0.886,2,-4.352,1,0.0425,0.0883,1.35e-5,0.0856,0.873,124.979,audio_features,222213,4
+85,2017,Hot Country Songs,Jason Aldean,NA,A Little More Summertime,0.482,0.823,9,-4.446,1,0.0661,0.0386,3.69e-5,0.0948,0.451,167.665,audio_features,219547,4
+86,2017,Hot Country Songs,Chris Stapleton,NA,Parachute,0.642,0.762,6,-7.411,1,0.0296,0.00967,5.72e-5,0.182,0.605,113.038,audio_features,253200,4
+87,2017,Hot Country Songs,Chris Janson,NA,Holdin' Her,0.3,0.574,2,-5.126,1,0.0316,0.426,2.27e-5,0.0939,0.387,95.712,audio_features,244547,5
+88,2017,Hot Country Songs,Drake White,NA,Makin' Me Look Good Again,0.574,0.586,10,-6.141,1,0.0337,0.354,0,0.106,0.26,127.794,audio_features,238933,4
+89,2017,Hot Country Songs,Chris Stapleton,NA,Either Way,0.641,0.0628,4,-14.155,1,0.0417,0.865,4.08e-6,0.105,0.275,129.004,audio_features,248053,4
+90,2017,Hot Country Songs,RaeLynn,NA,Love Triangle,0.686,0.525,2,-6.721,1,0.0331,0.135,0,0.11,0.322,132.927,audio_features,225627,4
+91,2017,Hot Country Songs,Big & Rich,NA,California,0.628,0.845,9,-4.837,1,0.0398,0.0537,0,0.378,0.801,115.999,audio_features,201653,4
+92,2017,Hot Country Songs,Jordan Davis,NA,Singles You Up,0.491,0.907,7,-3.594,1,0.0481,0.0491,0,0.242,0.631,199.943,audio_features,182667,4
+93,2017,Hot Country Songs,Craig Campbell,NA,Outskirts Of Heaven,0.497,0.434,0,-5.73,1,0.0296,0.333,3.11e-6,0.108,0.266,115.749,audio_features,244267,3
+94,2017,Hot Country Songs,Garth Brooks,NA,"Baby, Let's Lay Down And Dance",0.688,0.797,7,-7.495,1,0.0297,0.00131,3.32e-6,0.0748,0.604,114.047,audio_features,172794,4
+95,2017,Hot Country Songs,Brett Young,NA,Sleep Without You,0.626,0.707,5,-5.755,0,0.0425,0.0169,0,0.0769,0.653,88.543,audio_features,188467,4
+96,2017,Hot Country Songs,Cole Swindell,NA,Middle Of A Memory,0.531,0.746,11,-4.228,1,0.0329,0.0972,0,0.102,0.304,139.788,audio_features,226307,4
+97,2017,Hot Country Songs,Brett Eldredge,NA,The Long Way,0.488,0.637,10,-7.63,1,0.0401,0.265,0,0.106,0.23,88.865,audio_features,208720,4
+98,2017,Hot Country Songs,Chris Stapleton,NA,Tennessee Whiskey,0.392,0.37,9,-10.888,1,0.0298,0.205,0.0096,0.0821,0.512,48.718,audio_features,293293,4
+99,2017,Hot Country Songs,Kane Brown,NA,Found You,0.46,0.821,4,-5.333,0,0.0404,0.0528,0,0.0818,0.438,164.144,audio_features,191733,4
+100,2017,Hot Country Songs,Jake Owen,NA,Good Company,0.641,0.794,2,-5.586,1,0.0668,0.465,0,0.269,0.784,95.032,audio_features,173613,4
+1,2017,Hot R&B/Hip-Hop Songs,Bruno Mars,NA,That's What I Like,0.853,0.56,1,-4.961,1,0.0406,0.013,0,0.0944,0.86,134.066,audio_features,206693,4
+2,2017,Hot R&B/Hip-Hop Songs,Kendrick Lamar,NA,Humble.,0.908,0.621,1,-6.638,0,0.102,2.82e-4,5.39e-5,0.0958,0.421,150.011,audio_features,177000,4
+3,2017,Hot R&B/Hip-Hop Songs,DJ Khaled,"Justin Bieber, Quavo, Chance The Rapper & Lil Wayne",I'm The One,0.599,0.667,7,-4.267,1,0.0367,0.0533,0,0.134,0.817,80.984,audio_features,288877,4
+4,2017,Hot R&B/Hip-Hop Songs,Migos,Lil Uzi Vert,Bad And Boujee,0.927,0.665,11,-5.313,1,0.244,0.061,0,0.123,0.175,127.076,audio_features,343150,4
+5,2017,Hot R&B/Hip-Hop Songs,French Montana,Swae Lee,Unforgettable,0.726,0.769,6,-5.043,1,0.123,0.0293,0.0101,0.104,0.733,97.985,audio_features,233902,4
+6,2017,Hot R&B/Hip-Hop Songs,Post Malone,Quavo,Congratulations,0.63,0.804,6,-4.183,1,0.0363,0.215,0,0.253,0.492,123.146,audio_features,220293,4
+7,2017,Hot R&B/Hip-Hop Songs,Future,NA,Mask Off,0.833,0.434,2,-8.795,1,0.431,0.0102,0.0219,0.165,0.281,150.062,audio_features,204600,4
+8,2017,Hot R&B/Hip-Hop Songs,DJ Khaled,Rihanna & Bryson Tiller,Wild Thoughts,0.613,0.681,8,-3.089,1,0.0778,0.0287,0,0.126,0.619,97.621,audio_features,204664,4
+9,2017,Hot R&B/Hip-Hop Songs,Lil Uzi Vert,NA,XO TOUR Llif3,0.732,0.75,11,-6.366,0,0.231,0.00264,0,0.109,0.401,155.096,audio_features,182707,4
+10,2017,Hot R&B/Hip-Hop Songs,Cardi B,NA,Bodak Yellow (Money Moves),0.813,0.574,9,-9.401,1,0.0577,0.0606,0,0.428,0.546,124.982,audio_features,220395,3
+11,2017,Hot R&B/Hip-Hop Songs,Rae Sremmurd,Gucci Mane,Black Beatles,0.794,0.632,0,-6.163,1,0.0649,0.142,0,0.128,0.355,145.926,audio_features,291893,4
+12,2017,Hot R&B/Hip-Hop Songs,Bruno Mars,NA,24K Magic,0.853,0.56,1,-4.961,1,0.0406,0.013,0,0.0944,0.86,134.066,audio_features,206693,4
+13,2017,Hot R&B/Hip-Hop Songs,The Weeknd,Daft Punk,Starboy,0.678,0.588,7,-7.015,1,0.276,0.141,6.35e-6,0.137,0.486,186.005,audio_features,230453,4
+14,2017,Hot R&B/Hip-Hop Songs,KYLE,Lil Yachty,iSpy,0.746,0.653,7,-6.745,1,0.289,0.378,0,0.229,0.672,75.016,audio_features,253107,4
+15,2017,Hot R&B/Hip-Hop Songs,Childish Gambino,NA,Redbone,0.743,0.347,1,-11.174,1,0.121,0.167,0.00951,0.103,0.572,160.143,audio_features,326933,4
+16,2017,Hot R&B/Hip-Hop Songs,Logic,Alessia Cara & Khalid,1-800-273-8255,0.62,0.574,5,-7.788,0,0.0479,0.57,0,0.19,0.352,100.021,audio_features,250173,4
+17,2017,Hot R&B/Hip-Hop Songs,The Weeknd,Daft Punk,I Feel It Coming,0.773,0.819,0,-5.946,0,0.118,0.426,0,0.0679,0.585,92.99,audio_features,269187,4
+18,2017,Hot R&B/Hip-Hop Songs,Drake,NA,Fake Love,0.927,0.488,9,-9.433,0,0.42,0.108,0,0.196,0.605,133.987,audio_features,210937,4
+19,2017,Hot R&B/Hip-Hop Songs,Big Sean,NA,Bounce Back,0.77,0.567,2,-5.698,1,0.175,0.105,0,0.125,0.26,81.477,audio_features,222360,4
+20,2017,Hot R&B/Hip-Hop Songs,Machine Gun Kelly x Camila Cabello,NA,Bad Things,0.677,0.297,2,-8.646,1,0.0601,0.71,0,0.188,0.719,137.762,audio_features,243597,4
+21,2017,Hot R&B/Hip-Hop Songs,Rihanna,NA,Love On The Brain,0.509,0.637,4,-4.83,0,0.0471,0.0717,1.08e-5,0.0789,0.378,172.006,audio_features,224000,3
+22,2017,Hot R&B/Hip-Hop Songs,Khalid,NA,Location,0.736,0.449,1,-11.462,0,0.425,0.33,1.62e-4,0.0898,0.326,80.126,audio_features,219080,4
+23,2017,Hot R&B/Hip-Hop Songs,21 Savage,NA,Bank Account,0.884,0.346,8,-8.228,0,0.351,0.0151,7.04e-6,0.0871,0.376,75.016,audio_features,220307,4
+24,2017,Hot R&B/Hip-Hop Songs,Yo Gotti,Nicki Minaj,Rake It Up,0.91,0.444,1,-8.126,0,0.344,0.022,0,0.137,0.53,149.953,audio_features,276333,4
+25,2017,Hot R&B/Hip-Hop Songs,Migos,NA,T-Shirt,0.865,0.687,10,-3.744,0,0.217,0.242,0,0.158,0.486,139.023,audio_features,242407,4
+26,2017,Hot R&B/Hip-Hop Songs,Kodak Black,NA,Tunnel Vision,0.497,0.489,11,-7.724,0,0.294,0.0576,9.91e-5,0.122,0.231,171.853,audio_features,268187,4
+27,2017,Hot R&B/Hip-Hop Songs,Post Malone,21 Savage,Rockstar,0.587,0.535,5,-6.09,0,0.0898,0.117,6.56e-5,0.131,0.14,159.847,audio_features,218147,4
+28,2017,Hot R&B/Hip-Hop Songs,Ayo & Teo,NA,Rolex,0.804,0.886,1,-2.512,1,0.04,0.0837,0,0.266,0.789,144.946,audio_features,238587,4
+29,2017,Hot R&B/Hip-Hop Songs,Kendrick Lamar,NA,DNA.,0.638,0.523,1,-6.664,1,0.357,0.00454,0,0.0842,0.422,139.913,audio_features,185947,4
+30,2017,Hot R&B/Hip-Hop Songs,Zay Hilfigerrr & Zayion McCall,NA,Juju On That Beat (TZ Anthem),0.808,0.919,1,-5.391,1,0.167,0.00476,1.11e-6,0.0625,0.64,154.009,audio_features,102857,4
+31,2017,Hot R&B/Hip-Hop Songs,Drake,NA,Passionfruit,0.804,0.459,11,-11.556,1,0.039,0.304,0.0862,0.11,0.372,111.963,audio_features,298941,4
+32,2017,Hot R&B/Hip-Hop Songs,Rae Sremmurd,NA,Swang,0.681,0.314,8,-9.319,1,0.0581,0.2,9.8199999999999992e-06,0.1,0.166,139.992,audio_features,208120,4
+33,2017,Hot R&B/Hip-Hop Songs,Kendrick Lamar,Rihanna,Loyalty.,0.658,0.535,9,-8.983,0,0.0573,0.0265,0,0.2,0.419,110.684,audio_features,227360,4
+34,2017,Hot R&B/Hip-Hop Songs,Calvin Harris,Frank Ocean & Migos,Slide,0.736,0.795,1,-3.299,0,0.0545,0.498,1.21e-6,0.254,0.511,104.066,audio_features,230813,4
+35,2017,Hot R&B/Hip-Hop Songs,A Boogie Wit da Hoodie,Kodak Black,Drowning,0.839,0.81,5,-5.274,0,0.0568,0.501,0,0.117,0.814,129.014,audio_features,209269,4
+36,2017,Hot R&B/Hip-Hop Songs,Gucci Mane,Drake,Both,0.85,0.405,7,-7.509,0,0.225,0.119,1.18e-4,0.0707,0.344,139.976,audio_features,190312,4
+37,2017,Hot R&B/Hip-Hop Songs,Amine,NA,Caroline,0.941,0.335,5,-10.179,0,0.505,0.17,0,0.262,0.707,120.041,audio_features,209640,4
+38,2017,Hot R&B/Hip-Hop Songs,Calvin Harris,"Pharrell Williams, Katy Perry & Big Sean",Feels,0.893,0.745,11,-3.105,0,0.0571,0.0642,0,0.0943,0.872,101.018,audio_features,223413,4
+39,2017,Hot R&B/Hip-Hop Songs,SZA,Travis Scott,Love Galore,0.795,0.594,0,-6.2,1,0.0747,0.111,0,0.162,0.409,135.002,audio_features,275080,4
+40,2017,Hot R&B/Hip-Hop Songs,Migos,Gucci Mane,Slippery,0.92,0.674,1,-5.662,0,0.264,0.307,0,0.104,0.741,141.967,audio_features,304041,4
+41,2017,Hot R&B/Hip-Hop Songs,Khalid,NA,Young Dumb & Broke,0.798,0.539,1,-6.351,1,0.0421,0.199,1.66e-5,0.165,0.394,136.949,audio_features,202547,4
+42,2017,Hot R&B/Hip-Hop Songs,Playboi Carti,NA,Magnolia,0.791,0.581,11,-7.323,0,0.286,0.0113,0,0.35,0.438,162.99,audio_features,181812,4
+43,2017,Hot R&B/Hip-Hop Songs,YFN Lucci,PnB Rock,Everyday We Lit,0.758,0.646,7,-4.701,1,0.112,0.128,0,0.0778,0.589,155.955,audio_features,197171,4
+44,2017,Hot R&B/Hip-Hop Songs,blackbear,NA,Do Re Mi,0.742,0.599,8,-6.256,1,0.0465,0.00419,1.02e-5,0.126,0.154,110.977,audio_features,212027,3
+45,2017,Hot R&B/Hip-Hop Songs,Gucci Mane,Migos,I Get The Bag,0.89,0.633,11,-5.475,1,0.168,0.0232,3.43e-4,0.0993,0.425,139.948,audio_features,233087,4
+46,2017,Hot R&B/Hip-Hop Songs,Travis Scott,NA,Butterfly Effect,0.763,0.628,11,-5.85,1,0.05,0.0531,0,0.114,0.193,140.958,audio_features,190557,4
+47,2017,Hot R&B/Hip-Hop Songs,XXXTENTACION,NA,Look At Me!,0.763,0.726,1,-6.405,1,0.282,0.259,0,0.0976,0.349,139.059,audio_features,126346,4
+48,2017,Hot R&B/Hip-Hop Songs,GoldLink,Brent Faiyaz & Shy Glizzy,Crew,0.728,0.607,1,-8.417,0,0.132,0.133,0,0.0864,0.445,129.938,audio_features,176702,4
+49,2017,Hot R&B/Hip-Hop Songs,Kendrick Lamar,Zacari,Love.,0.8,0.585,10,-7.343,1,0.0924,0.264,0,0.153,0.779,126.058,audio_features,213400,4
+50,2017,Hot R&B/Hip-Hop Songs,Chris Brown,Usher & Gucci Mane,Party,0.762,0.576,1,-4.951,0,0.0829,0.0556,0,0.0869,0.316,142.096,audio_features,220813,4
+51,2017,Hot R&B/Hip-Hop Songs,J. Cole,NA,Deja Vu,0.653,0.409,9,-11.446,1,0.421,0.361,1.2e-4,0.189,0.187,174.324,audio_features,264747,4
+52,2017,Hot R&B/Hip-Hop Songs,Drake,Quavo & Travis Scott,Portland,0.924,0.444,1,-8.227,1,0.243,0.0143,0,0.26,0.314,136.088,audio_features,236615,4
+53,2017,Hot R&B/Hip-Hop Songs,2 Chainz,"Ty Dolla $ign, Trey Songz & Jhene Aiko",It's A Vibe,0.822,0.505,7,-7.384,1,0.147,0.0317,9.11e-4,0.114,0.523,73.003,audio_features,210200,4
+54,2017,Hot R&B/Hip-Hop Songs,SZA,NA,The Weekend,0.487,0.366,8,-9.405,0,0.0531,0.241,0,0.126,0.161,68.191,audio_features,272187,5
+55,2017,Hot R&B/Hip-Hop Songs,Tee Grizzley,NA,First Day Out,0.587,0.711,1,-6.33,1,0.42,0.171,0,0.125,0.381,98.008,audio_features,254694,4
+56,2017,Hot R&B/Hip-Hop Songs,The Weeknd,NA,Party Monster,0.572,0.631,1,-8.389,1,0.104,0.188,2.31e-5,0.259,0.219,77.519,audio_features,249213,4
+57,2017,Hot R&B/Hip-Hop Songs,John Legend,NA,Love Me Now,0.488,0.762,8,-3.842,1,0.0865,0.591,0,0.0763,0.709,123.889,audio_features,210293,4
+58,2017,Hot R&B/Hip-Hop Songs,Lil Pump,NA,Gucci Gang,0.936,0.523,5,-6.71,1,0.0597,0.239,0,0.117,0.699,119.889,audio_features,124056,4
+59,2017,Hot R&B/Hip-Hop Songs,Bruno Mars,NA,Versace On The Floor,0.578,0.574,2,-6.209,1,0.0454,0.196,0,0.083,0.301,174.152,audio_features,261240,4
+60,2017,Hot R&B/Hip-Hop Songs,Travis Scott,NA,Goosebumps,0.841,0.728,7,-3.37,1,0.0484,0.0847,0,0.149,0.43,130.049,audio_features,243837,4
+61,2017,Hot R&B/Hip-Hop Songs,Big Sean,NA,Moves,0.789,0.53,2,-6.2,1,0.293,0.0541,0,0.164,0.367,75.515,audio_features,142907,4
+62,2017,Hot R&B/Hip-Hop Songs,Future,Drake,Used To This,0.618,0.727,3,-7.224,0,0.208,0.0312,0,0.196,0.401,164.992,audio_features,180520,4
+63,2017,Hot R&B/Hip-Hop Songs,Russ,NA,Losin Control,0.759,0.245,6,-6.545,1,0.138,0.515,1.54e-4,0.102,0.209,96.992,audio_features,237507,4
+64,2017,Hot R&B/Hip-Hop Songs,Tay-K,NA,The Race,0.766,0.606,9,-6.064,1,0.456,0.00266,0,0.166,0.352,160.223,audio_features,140000,4
+65,2017,Hot R&B/Hip-Hop Songs,Young M.A,NA,OOOUUU,0.64,0.819,7,-4.108,1,0.455,0.533,0,0.156,0.623,166.012,audio_features,234526,4
+66,2017,Hot R&B/Hip-Hop Songs,Chris Brown,NA,Privacy,0.741,0.58,0,-7.741,1,0.378,0.153,0,0.109,0.428,97.092,audio_features,220964,4
+67,2017,Hot R&B/Hip-Hop Songs,Meek Mill,Chris Brown & Ty Dolla $ign,Whatever You Need,0.519,0.57,1,-7.366,1,0.202,0.0254,0,0.0821,0.317,164.155,audio_features,205373,4
+68,2017,Hot R&B/Hip-Hop Songs,DJ Khaled,Beyonce & JAY Z,Shining,0.768,0.807,2,-5.508,0,0.106,0.053,2.99e-6,0.214,0.575,112.001,audio_features,284000,4
+69,2017,Hot R&B/Hip-Hop Songs,21 Savage & Metro Boomin,NA,No Heart,0.694,0.451,10,-10.654,1,0.0523,0.227,0.939,0.153,0.309,138.987,audio_features,248660,4
+70,2017,Hot R&B/Hip-Hop Songs,Lil Uzi Vert,Nicki Minaj,The Way Life Goes,0.703,0.757,1,-3.612,1,0.05,0.617,0,0.106,0.696,82.008,audio_features,221747,4
+71,2017,Hot R&B/Hip-Hop Songs,The Weeknd,NA,Reminder,0.705,0.505,8,-6.923,1,0.192,0.142,0,0.164,0.391,160.043,audio_features,218880,4
+72,2017,Hot R&B/Hip-Hop Songs,Kodak Black,XXXTENTACION,Roll In Peace,0.747,0.524,10,-6.807,0,0.245,0.0306,0,0.2,0.363,140.053,audio_features,213132,4
+74,2017,Hot R&B/Hip-Hop Songs,21 Savage & Metro Boomin,Future,X,0.664,0.367,1,-14.376,1,0.0837,0.779,0.863,0.106,0.0907,75.507,audio_features,261083,4
+75,2017,Hot R&B/Hip-Hop Songs,XXXTENTACION,NA,Jocelyn Flores,0.872,0.391,0,-9.144,0,0.242,0.469,4.13e-6,0.297,0.437,134.021,audio_features,119133,4
+76,2017,Hot R&B/Hip-Hop Songs,Kendrick Lamar,NA,Element.,0.748,0.705,4,-4.547,0,0.485,0.204,0,0.246,0.483,189.891,audio_features,208733,4
+77,2017,Hot R&B/Hip-Hop Songs,Rob $tone,J. Davi$ & Spooks,Chill Bill,0.886,0.427,6,-10.028,1,0.145,0.0312,9.9e-4,0.0906,0.23,108.034,audio_features,177184,4
+78,2017,Hot R&B/Hip-Hop Songs,G-Eazy,A$AP Rocky & Cardi B,No Limit,0.838,0.771,1,-3.791,1,0.244,0.0117,0,0.0853,0.405,175.957,audio_features,245387,4
+79,2017,Hot R&B/Hip-Hop Songs,Playboi Carti,Lil Uzi Vert,Wokeuplikethis*,0.785,0.62,8,-6.668,1,0.254,0.0138,0,0.15,0.478,78.476,audio_features,235535,4
+80,2017,Hot R&B/Hip-Hop Songs,PnB Rock,NA,Selfish,0.638,0.6,1,-5.84,0,0.0438,0.114,0,0.187,0.0399,101.981,audio_features,245604,4
+81,2017,Hot R&B/Hip-Hop Songs,Post Malone,NA,I Fall Apart,0.556,0.538,8,-5.408,0,0.0382,0.0689,0,0.196,0.291,143.95,audio_features,223347,4
+82,2017,Hot R&B/Hip-Hop Songs,Young Thug,Future,Relationship,0.842,0.597,2,-6.336,1,0.0627,0.00252,0,0.124,0.298,145.992,audio_features,215307,4
+83,2017,Hot R&B/Hip-Hop Songs,Drake,NA,Gyalchester,0.872,0.389,1,-8.343,1,0.0634,0.0343,6.79e-4,0.0941,0.156,131.012,audio_features,189230,4
+84,2017,Hot R&B/Hip-Hop Songs,Kodak Black,NA,Transportin',0.804,0.66,10,-4.86,0,0.0726,0.0319,0,0.103,0.257,94.053,audio_features,169345,4
+85,2017,Hot R&B/Hip-Hop Songs,Future,Rihanna,Selfish,0.415,0.369,8,-10.044,1,0.0741,0.0303,7.64e-6,0.383,0.0913,95.746,audio_features,251423,4
+86,2017,Hot R&B/Hip-Hop Songs,Jacquees,NA,B.E.D.,0.739,0.536,1,-6.501,1,0.0587,0.00368,0,0.0968,0.193,122.022,audio_features,236147,4
+87,2017,Hot R&B/Hip-Hop Songs,D.R.A.M.,Lil Yachty,Broccoli,0.825,0.485,8,-11.479,1,0.395,0.187,0,0.0904,0.792,145.976,audio_features,233278,4
+89,2017,Hot R&B/Hip-Hop Songs,2 Chainz,Travis Scott,4 AM,0.796,0.5,1,-7.21,1,0.425,0.118,0,0.155,0.227,75.012,audio_features,255560,4
+90,2017,Hot R&B/Hip-Hop Songs,J. Cole,NA,Neighbors,0.894,0.284,11,-13.002,0,0.33,0.358,4.87e-4,0.11,0.413,138.944,audio_features,216520,4
+91,2017,Hot R&B/Hip-Hop Songs,Chris Brown,"Yo Gotti, A Boogie Wit da Hoodie & Kodak Black",Pills And Automobiles,0.82,0.696,7,-4.918,0,0.182,0.119,0,0.231,0.617,144.981,audio_features,292910,4
+92,2017,Hot R&B/Hip-Hop Songs,"Nicki Minaj, Drake & Lil Wayne",NA,No Frauds,0.65,0.182,1,-22.168,0,0.0809,0.326,0.826,0.118,0.0525,138.969,audio_features,276323,4
+93,2017,Hot R&B/Hip-Hop Songs,Drake,21 Savage,Sneakin',0.595,0.451,1,-13.049,1,0.0445,0.00717,0.815,0.0954,0.298,170.022,audio_features,249366,4
+94,2017,Hot R&B/Hip-Hop Songs,Lil Uzi Vert,NA,Sauce It Up,0.813,0.528,6,-6.305,0,0.313,0.0715,0,0.125,0.131,79.532,audio_features,207039,4
+95,2017,Hot R&B/Hip-Hop Songs,DJ Khaled,"Nicki Minaj, Chris Brown, August Alsina, Jeremih, Future & Rick Ross",Do You Mind,0.412,0.548,10,-6.981,1,0.243,0.0173,0,0.181,0.176,81.293,audio_features,325615,4
+96,2017,Hot R&B/Hip-Hop Songs,6LACK,NA,Prblms,0.417,0.58,9,-4.574,1,0.207,0.0307,1.45e-6,0.179,0.139,68.58,audio_features,246773,5
+97,2017,Hot R&B/Hip-Hop Songs,Lil Uzi Vert,NA,You Was Right,0.843,0.359,0,-7.417,1,0.461,0.069,0,0.12,0.156,81.987,audio_features,163944,4
+98,2017,Hot R&B/Hip-Hop Songs,Chris Brown,NA,Questions,0.614,0.598,10,-6.335,0,0.0561,0.00543,0,0.1,0.565,105.803,audio_features,129478,4
+99,2017,Hot R&B/Hip-Hop Songs,Metro Boomin,Offset & Drake,No Complaints,0.914,0.507,2,-10.784,1,0.164,0.0855,0.0254,0.0797,0.199,123.956,audio_features,261733,4
+100,2017,Hot R&B/Hip-Hop Songs,DJ ESCO,Future & Lil Uzi Vert,Too Much Sauce,0.96,0.547,6,-6.992,0,0.0786,0.0496,0,0.216,0.186,121.01,audio_features,223093,4
+1,2018,Hot Country Songs,Bebe Rexha & Florida Georgia Line,NA,Meant To Be,0.671,0.668,10,-7.086,1,0.0851,0.161,0,0.219,0.487,153.953,audio_features,163553,4
+2,2018,Hot Country Songs,Kane Brown,NA,Heaven,0.677,0.556,9,-6.544,1,0.0306,0.263,0,0.105,0.521,80.009,audio_features,179507,4
+3,2018,Hot Country Songs,Dan + Shay,NA,Tequila,0.474,0.594,11,-5.756,1,0.0289,0.0292,0,0.133,0.503,86.131,audio_features,195987,4
+4,2018,Hot Country Songs,Jason Aldean,NA,You Make It Easy,0.375,0.574,7,-5.305,1,0.0315,0.143,0,0.11,0.406,132.025,audio_features,196800,3
+5,2018,Hot Country Songs,Thomas Rhett,NA,Marry Me,0.588,0.408,3,-8.662,1,0.0237,0.113,0,0.13,0.484,85.008,audio_features,205453,4
+6,2018,Hot Country Songs,Luke Combs,NA,One Number Away,0.544,0.781,6,-6.16,0,0.0311,0.00585,0,0.191,0.527,144.075,audio_features,221800,4
+7,2018,Hot Country Songs,Florida Georgia Line,NA,Simple,0.362,0.882,3,-3.717,1,0.0973,0.0791,0,0.15,0.864,199.811,audio_features,185200,4
+8,2018,Hot Country Songs,Kenny Chesney,NA,Get Along,0.632,0.804,7,-6.109,1,0.0503,0.101,0,0.17,0.35,92.456,audio_features,199625,4
+9,2018,Hot Country Songs,Brett Young,NA,Mercy,0.638,0.367,4,-7.906,1,0.0266,0.84,0,0.0999,0.219,71.957,audio_features,217120,4
+10,2018,Hot Country Songs,Morgan Wallen,Florida Georgia Line,Up Down,0.588,0.885,6,-3.046,1,0.0346,0.0788,0,0.175,0.786,129.933,audio_features,198120,4
+11,2018,Hot Country Songs,Luke Bryan,NA,Most People Are Good,0.582,0.728,8,-6.151,1,0.0292,0.174,0,0.139,0.537,150.013,audio_features,221801,4
+12,2018,Hot Country Songs,Chris Lane,Tori Kelly,Take Back Home Girl,0.488,0.783,11,-3.967,1,0.0725,0.356,0,0.0921,0.664,159.924,audio_features,212080,4
+13,2018,Hot Country Songs,Jason Aldean,Miranda Lambert,Drowns The Whiskey,0.552,0.698,8,-4.817,1,0.0306,0.294,1.03e-4,0.0905,0.6,90.006,audio_features,202067,4
+14,2018,Hot Country Songs,Cole Swindell,NA,Break Up In The End,0.507,0.372,1,-8.433,1,0.0303,0.481,0,0.271,0.257,86.422,audio_features,199693,4
+15,2018,Hot Country Songs,Chris Stapleton,NA,Broken Halos,0.607,0.575,8,-7.066,1,0.0252,0.133,2.52e-6,0.0566,0.504,78.341,audio_features,180907,4
+16,2018,Hot Country Songs,Luke Bryan,NA,"Sunrise, Sunburn, Sunset",0.472,0.884,9,-2.306,1,0.0584,0.185,0,0.178,0.718,159.96,audio_features,216093,4
+17,2018,Hot Country Songs,Dylan Scott,NA,Hooked,0.597,0.721,9,-6.422,1,0.0356,0.0362,0,0.0832,0.437,132.054,audio_features,149293,4
+18,2018,Hot Country Songs,Chris Janson,NA,Drunk Girl,0.485,0.306,0,-8.431,1,0.0409,0.794,0,0.122,0.224,203.729,audio_features,207267,4
+19,2018,Hot Country Songs,Jordan Davis,NA,Singles You Up,0.491,0.907,7,-3.594,1,0.0481,0.0491,0,0.242,0.631,199.943,audio_features,182667,4
+20,2018,Hot Country Songs,Old Dominion,NA,Hotel Key,0.758,0.867,11,-5.087,1,0.0475,0.152,0,0.308,0.964,102.018,audio_features,166573,4
+21,2018,Hot Country Songs,Kane Brown,NA,Lose It,0.544,0.854,4,-4.968,0,0.0289,0.00245,1.2e-6,0.249,0.436,91.966,audio_features,178987,4
+22,2018,Hot Country Songs,Scotty McCreery,NA,Five More Minutes,0.496,0.632,7,-4.933,1,0.0282,0.257,1.07e-6,0.109,0.278,156.034,audio_features,241147,4
+23,2018,Hot Country Songs,Luke Combs,NA,She Got The Best Of Me,0.533,0.907,11,-3.793,1,0.0406,0.0292,0,0.386,0.7,150.99,audio_features,183160,4
+24,2018,Hot Country Songs,Jake Owen,NA,I Was Jack (You Were Diane),0.612,0.878,6,-3.556,1,0.0452,0.0875,0,0.0505,0.599,94.014,audio_features,188013,4
+25,2018,Hot Country Songs,Thomas Rhett,NA,Life Changes,0.687,0.842,7,-4.382,1,0.058,0.105,0,0.0436,0.778,87.968,audio_features,190227,4
+26,2018,Hot Country Songs,Luke Combs,NA,Beautiful Crazy,0.552,0.402,11,-7.431,1,0.0262,0.676,0,0.0928,0.382,103.313,audio_features,193200,4
+27,2018,Hot Country Songs,Blake Shelton,NA,I Lived It,0.557,0.571,10,-8.106,1,0.0281,0.476,0.00114,0.101,0.392,80.981,audio_features,219600,4
+28,2018,Hot Country Songs,Dierks Bentley,NA,"Woman, Amen",0.484,0.804,5,-5.889,1,0.0912,8.37e-4,9.29e-6,0.17,0.391,119.838,audio_features,179827,4
+29,2018,Hot Country Songs,Devin Dawson,NA,All On Me,0.634,0.668,5,-5.488,1,0.0291,0.14,0,0.216,0.635,80.989,audio_features,224627,4
+30,2018,Hot Country Songs,Russell Dickerson,NA,Blue Tacoma,0.455,0.897,9,-4.879,1,0.0403,0.0183,0,0.174,0.728,160.139,audio_features,212067,4
+31,2018,Hot Country Songs,Russell Dickerson,NA,Yours,0.638,0.854,1,-4.664,1,0.11,0.216,0,0.0357,0.859,93.869,audio_features,190640,4
+32,2018,Hot Country Songs,Dan + Shay,NA,Speechless,0.616,0.438,1,-5.968,1,0.0298,0.356,0,0.24,0.386,135.929,audio_features,213387,4
+33,2018,Hot Country Songs,Chris Young,NA,Hangin' On,0.434,0.831,8,-4.774,1,0.0453,0.0651,0,0.119,0.596,156.034,audio_features,185440,4
+34,2018,Hot Country Songs,Brett Eldredge,NA,The Long Way,0.488,0.637,10,-7.63,1,0.0401,0.265,0,0.106,0.23,88.865,audio_features,208720,4
+35,2018,Hot Country Songs,Sugarland,Taylor Swift,Babe,0.535,0.777,4,-3.292,1,0.207,0.0187,1.62e-6,0.136,0.664,171.72,audio_features,215107,4
+36,2018,Hot Country Songs,Old Dominion,NA,Written In The Sand,0.725,0.437,6,-9.602,1,0.0575,0.593,0,0.0842,0.759,83.985,audio_features,184080,4
+37,2018,Hot Country Songs,Kane Brown,Lauren Alaina,What Ifs,0.612,0.799,10,-4.603,1,0.0275,0.00898,0,0.172,0.687,125.976,audio_features,188253,4
+38,2018,Hot Country Songs,David Lee Murphy & Kenny Chesney,NA,Everything's Gonna Be Alright,0.743,0.423,8,-12.241,1,0.0538,0.339,0.862,0.0981,0.384,90.514,audio_features,227972,4
+39,2018,Hot Country Songs,Carrie Underwood,NA,Cry Pretty,0.614,0.884,0,-4.019,1,0.0402,0.00122,0,0.077,0.721,100.531,audio_features,202853,4
+40,2018,Hot Country Songs,Darius Rucker,NA,For The First Time,0.547,0.804,6,-5.268,1,0.0361,0.00738,0,0.0308,0.666,142.016,audio_features,197053,4
+41,2018,Hot Country Songs,LANCO,NA,Greatest Love Story,0.671,0.617,10,-8.72,1,0.0561,0.401,0,0.119,0.62,147.986,audio_features,222573,4
+42,2018,Hot Country Songs,Morgan Evans,NA,Kiss Somebody,0.57,0.684,6,-7.054,1,0.0465,0.136,0,0.205,0.531,89.012,audio_features,213183,4
+43,2018,Hot Country Songs,Jimmie Allen,NA,Best Shot,0.629,0.464,4,-8.72,1,0.0334,0.75,0,0.0853,0.523,156.051,audio_features,195053,4
+44,2018,Hot Country Songs,Maren Morris,NA,Rich,0.565,0.855,5,-4.189,1,0.0557,0.0445,0,0.32,0.852,74.98,audio_features,208893,4
+45,2018,Hot Country Songs,Keith Urban,Julia Michaels,Coming Home,0.383,0.703,4,-6.988,1,0.228,0.216,5.47e-6,0.131,0.57,88.502,audio_features,213939,4
+46,2018,Hot Country Songs,Sam Hunt,NA,Body Like A Back Road,0.731,0.469,5,-7.226,1,0.0326,0.463,1.04e-6,0.103,0.631,98.963,audio_features,165387,4
+47,2018,Hot Country Songs,Blake Shelton,NA,I'll Name The Dogs,0.348,0.87,4,-5.86,1,0.137,0.171,4.4e-6,0.202,0.763,83.392,audio_features,183640,4
+48,2018,Hot Country Songs,Walker Hayes,NA,You Broke Up With Me,0.846,0.711,0,-7.939,1,0.061,0.496,0,0.247,0.883,120.013,audio_features,197840,4
+49,2018,Hot Country Songs,LANCO,NA,Born To Love You,0.659,0.902,7,-6.192,1,0.0296,0.13,9.45e-5,0.0574,0.809,124.985,audio_features,230013,4
+50,2018,Hot Country Songs,Mitchell Tenpenny,NA,Drunk Me,0.499,0.797,2,-3.77,1,0.0554,0.199,0,0.0933,0.408,176.024,audio_features,211768,4
+51,2018,Hot Country Songs,Brett Young,NA,Like I Loved You,0.582,0.568,1,-6.051,1,0.0297,0.196,0,0.0841,0.64,76.025,audio_features,207187,4
+52,2018,Hot Country Songs,Eric Church,NA,Desperate Man,0.56,0.736,0,-7.306,1,0.0446,0.341,9.81e-6,0.155,0.824,79.843,audio_features,195147,4
+53,2018,Hot Country Songs,High Valley,NA,She's With Me,0.599,0.931,11,-3.662,1,0.0517,0.0285,0,0.102,0.788,111.012,audio_features,180302,4
+54,2018,Hot Country Songs,Chris Young,NA,Losing Sleep,0.584,0.621,1,-5.703,1,0.0443,0.0715,1.68e-6,0.389,0.634,92.003,audio_features,178253,4
+55,2018,Hot Country Songs,Lady Antebellum,NA,Heart Break,0.653,0.911,0,-4.635,1,0.0439,0.0338,6.59e-4,0.081,0.942,152.043,audio_features,181000,4
+56,2018,Hot Country Songs,Keith Urban,NA,Female,0.567,0.477,8,-8.781,0,0.0331,0.186,4.86e-5,0.111,0.321,85.019,audio_features,195317,5
+57,2018,Hot Country Songs,Chris Stapleton,NA,Millionaire,0.602,0.463,10,-9.666,1,0.0279,0.165,0.00968,0.0975,0.454,142.635,audio_features,210133,4
+58,2018,Hot Country Songs,Thomas Rhett,NA,Unforgettable,0.663,0.738,7,-5.48,1,0.0303,0.032,2.25e-4,0.0856,0.825,130.02,audio_features,157080,4
+59,2018,Hot Country Songs,Lee Brice,NA,Boy,0.498,0.408,6,-7.946,1,0.0331,0.644,0,0.0993,0.383,78.942,audio_features,198973,4
+60,2018,Hot Country Songs,Michael Ray,NA,Get To You,0.481,0.562,3,-5.661,1,0.0321,0.348,4.32e-4,0.106,0.212,167.964,audio_features,191547,4
+61,2018,Hot Country Songs,Carly Pearce,NA,Hide The Wine,0.589,0.918,5,-4.192,0,0.132,0.0555,0,0.0868,0.622,77.14,audio_features,209587,4
+62,2018,Hot Country Songs,Kelsea Ballerini,NA,Legends,0.577,0.727,4,-5.848,1,0.0319,0.0547,0,0.0891,0.24,112.041,audio_features,244467,4
+63,2018,Hot Country Songs,Eric Church,NA,Round Here Buzz,0.638,0.441,2,-9.064,1,0.0347,0.0422,1.33e-5,0.107,0.473,76.078,audio_features,214627,4
+64,2018,Hot Country Songs,Luke Bryan,NA,Light It Up,0.602,0.929,6,-2.741,0,0.0839,0.118,0,0.103,0.677,130.024,audio_features,177306,4
+65,2018,Hot Country Songs,Luke Combs,NA,When It Rains It Pours,0.551,0.801,6,-5.069,1,0.0303,0.013,6.03e-6,0.265,0.625,128.027,audio_features,240760,4
+66,2018,Hot Country Songs,Dierks Bentley,Brothers Osborne,Burning Man,0.609,0.807,5,-7.221,1,0.0972,0.00403,5.42e-6,0.0926,0.492,119.073,audio_features,238493,4
+67,2018,Hot Country Songs,Granger Smith,NA,Happens Like That,0.557,0.807,7,-5.428,1,0.0825,0.189,0,0.234,0.578,81.045,audio_features,171493,4
+68,2018,Hot Country Songs,Garth Brooks,NA,All Day Long,0.607,0.249,0,-13.48,1,0.0568,0.844,0.94,0.171,0.519,97.712,audio_features,180853,4
+69,2018,Hot Country Songs,Kip Moore,NA,Last Shot,0.487,0.859,4,-4.403,1,0.0488,0.00204,0,0.322,0.377,148.037,audio_features,228480,4
+70,2018,Hot Country Songs,Maren Morris,NA,I Could Use A Love Song,0.638,0.634,6,-6.474,1,0.0468,0.214,0,0.0866,0.473,92.097,audio_features,196422,4
+71,2018,Hot Country Songs,Justin Moore,NA,Kinda Don't Care,0.584,0.752,1,-5.674,1,0.0309,0.0974,3.05e-5,0.0544,0.735,150.046,audio_features,261800,4
+72,2018,Hot Country Songs,Sam Hunt,NA,Downtown's Dead,0.624,0.696,11,-6.006,1,0.0469,0.109,0,0.132,0.392,82.001,audio_features,213987,4
+73,2018,Hot Country Songs,Kelsea Ballerini,NA,I Hate Love Songs,0.386,0.446,11,-7.807,1,0.0297,0.252,0,0.18,0.4,179.995,audio_features,191187,3
+74,2018,Hot Country Songs,Easton Corbin,NA,A Girl Like You,0.74,0.777,5,-4.405,1,0.0329,0.0178,1.27e-6,0.0665,0.834,104.989,audio_features,217840,4
+75,2018,Hot Country Songs,Brothers Osborne,NA,Shoot Me Straight,0.417,0.685,2,-6.805,1,0.0584,0.00389,0.00855,0.103,0.224,98.718,audio_features,384013,4
+76,2018,Hot Country Songs,Jon Pardi,NA,She Ain't In It,0.56,0.679,5,-4.527,1,0.0236,0.123,2.46e-5,0.224,0.622,92.928,audio_features,198467,4
+77,2018,Hot Country Songs,Lindsay Ell,NA,Criminal,0.509,0.876,4,-2.852,1,0.0525,0.0932,6.51e-6,0.119,0.717,77.491,audio_features,202747,4
+78,2018,Hot Country Songs,Brantley Gilbert,NA,Ones That Like Me,0.437,0.834,6,-3.807,1,0.0404,0.0329,1.03e-6,0.383,0.436,154.053,audio_features,205267,4
+79,2018,Hot Country Songs,Midland,NA,Burn Out,0.672,0.721,7,-5.557,1,0.0246,0.3,1.98e-6,0.279,0.812,99.978,audio_features,188613,4
+80,2018,Hot Country Songs,Dustin Lynch,NA,Good Girl,0.711,0.696,7,-5.05,1,0.0871,0.16,0,0.17,0.694,80.512,audio_features,189533,4
+81,2018,Hot Country Songs,Tim McGraw & Faith Hill,NA,The Rest Of Our Life,0.635,0.279,2,-15.447,1,0.0303,0.604,0.89,0.121,0.0714,121.985,audio_features,220206,3
+82,2018,Hot Country Songs,Jordan Davis,NA,Take It From Me,0.592,0.891,10,-3.144,1,0.0512,0.0267,0,0.352,0.674,99.983,audio_features,174255,4
+83,2018,Hot Country Songs,Luke Combs,NA,Must've Never Met You,0.455,0.892,6,-3.218,1,0.0566,0.00951,0,0.143,0.641,75.218,audio_features,198880,4
+84,2018,Hot Country Songs,Chase Rice,NA,Three Chords & The Truth,0.44,0.889,8,-4.723,1,0.0462,0.0275,0,0.143,0.409,166.074,audio_features,234187,4
+85,2018,Hot Country Songs,Midland,NA,Make A Little,0.562,0.875,4,-5.108,1,0.0589,0.132,0,0.354,0.803,152,audio_features,181533,4
+86,2018,Hot Country Songs,Blake Shelton,NA,Turnin' Me On,0.628,0.708,11,-7.045,0,0.0287,0.309,1.32e-6,0.109,0.276,111.047,audio_features,288573,4
+87,2018,Hot Country Songs,Scotty McCreery,NA,This Is It,0.557,0.511,8,-6.788,1,0.0291,0.254,0,0.099,0.602,156.042,audio_features,230973,4
+88,2018,Hot Country Songs,Luke Combs,NA,"Houston, We Got A Problem",0.522,0.762,9,-5.059,1,0.0362,0.0961,6.21e-6,0.395,0.486,143.868,audio_features,191987,4
+89,2018,Hot Country Songs,Dustin Lynch,NA,I'd Be Jealous Too,0.716,0.718,0,-5.355,1,0.0293,0.0896,0,0.473,0.537,100.934,audio_features,185707,4
+90,2018,Hot Country Songs,Jake Owen,NA,Down To The Honkytonk,0.623,0.828,3,-4.272,1,0.0565,0.162,0,0.0976,0.953,82.059,audio_features,183140,4
+91,2018,Hot Country Songs,Mason Ramsey,NA,Famous,0.534,0.815,5,-2.815,1,0.0278,0.708,0,0.111,0.564,159.848,audio_features,192520,4
+92,2018,Hot Country Songs,Aaron Watson,NA,Outta Style,0.617,0.886,2,-4.352,1,0.0425,0.0883,1.35e-5,0.0856,0.873,124.979,audio_features,222213,4
+93,2018,Hot Country Songs,Ashley McBryde,NA,A Little Dive Bar In Dahlonega,0.639,0.479,1,-6.192,1,0.0447,0.426,0,0.151,0.571,146.084,audio_features,209080,4
+94,2018,Hot Country Songs,Travis Denning,NA,David Ashley Parker From Powder Springs,0.555,0.895,5,-4.787,1,0.0472,0.131,0,0.0922,0.38,138.076,audio_features,210173,4
+95,2018,Hot Country Songs,Lauren Alaina,NA,Doin' Fine,0.439,0.752,8,-4.143,1,0.0375,0.116,0,0.133,0.456,166.051,audio_features,199907,4
+96,2018,Hot Country Songs,Tyler Rich,NA,The Difference,0.538,0.755,9,-5.22,1,0.0532,0.097,0,0.11,0.697,169.811,audio_features,188514,4
+97,2018,Hot Country Songs,Cody Johnson,NA,On My Way To You,0.443,0.538,1,-5.477,1,0.0309,0.327,4.61e-5,0.0866,0.245,157.97,audio_features,213307,4
+98,2018,Hot Country Songs,Carrie Underwood,NA,Love Wins,0.523,0.865,7,-4.697,1,0.0989,0.0112,0,0.153,0.325,135.115,audio_features,228640,4
+99,2018,Hot Country Songs,Jason Aldean,NA,Girl Like You,0.543,0.88,3,-4.204,0,0.0365,0.035,2.27e-4,0.304,0.483,144.057,audio_features,193067,4
+100,2018,Hot Country Songs,Rodney Atkins,The Fisk Jubilee Singers,Caught Up In The Country,0.564,0.904,7,-3.808,1,0.0582,0.00719,0,0.528,0.637,124.102,audio_features,160991,4
+1,2018,Hot R&B/Hip-Hop Songs,Drake,NA,God's Plan,0.754,0.449,7,-9.211,1,0.109,0.0332,8.29e-5,0.552,0.357,77.169,audio_features,198973,4
+2,2018,Hot R&B/Hip-Hop Songs,"Cardi B, Bad Bunny & J Balvin",NA,I Like It,0.867,0.725,5,-6.552,0,0.126,0.109,0,0.294,0.752,135.981,audio_features,251195,4
+3,2018,Hot R&B/Hip-Hop Songs,Drake,NA,In My Feelings,0.835,0.626,1,-5.833,1,0.125,0.0589,6e-5,0.396,0.35,91.03,audio_features,217925,4
+4,2018,Hot R&B/Hip-Hop Songs,Post Malone,Ty Dolla $ign,Psycho,0.739,0.559,8,-8.011,1,0.117,0.58,0,0.112,0.439,140.124,audio_features,221440,4
+5,2018,Hot R&B/Hip-Hop Songs,Drake,NA,Nice For What,0.586,0.909,8,-6.474,1,0.0705,0.0891,1.09e-4,0.119,0.757,93.394,audio_features,210747,4
+6,2018,Hot R&B/Hip-Hop Songs,Post Malone,21 Savage,Rockstar,0.587,0.535,5,-6.09,0,0.0898,0.117,6.56e-5,0.131,0.14,159.847,audio_features,218147,4
+7,2018,Hot R&B/Hip-Hop Songs,Juice WRLD,NA,Lucid Dreams,0.511,0.566,6,-7.23,0,0.2,0.349,0,0.34,0.218,83.903,audio_features,239836,4
+8,2018,Hot R&B/Hip-Hop Songs,Post Malone,NA,Better Now,0.68,0.563,10,-5.843,1,0.0454,0.354,0,0.136,0.374,145.028,audio_features,231267,4
+9,2018,Hot R&B/Hip-Hop Songs,Bruno Mars & Cardi B,NA,Finesse,0.77,0.719,5,-8.201,0,0.0497,0.0202,0.89,0.0344,0.849,104.998,audio_features,217852,4
+10,2018,Hot R&B/Hip-Hop Songs,Ella Mai,NA,Boo'd Up,0.561,0.779,10,-5.107,0,0.0531,0.0862,0,0.078,0.235,81.965,audio_features,256064,4
+11,2018,Hot R&B/Hip-Hop Songs,BlocBoy JB,Drake,Look Alive,0.922,0.581,10,-7.495,1,0.27,0.00104,5.86e-5,0.105,0.595,140.022,audio_features,181263,4
+12,2018,Hot R&B/Hip-Hop Songs,XXXTENTACION,NA,Sad!,0.74,0.613,8,-4.88,1,0.145,0.258,0.0037200000000000002,0.123,0.473,75.023,audio_features,166606,4
+13,2018,Hot R&B/Hip-Hop Songs,Lil Baby & Drake,NA,Yes Indeed,0.801,0.243,6,-15.05,1,0.0934,0.383,0.897,0.126,0.446,120.995,audio_features,141926,4
+14,2018,Hot R&B/Hip-Hop Songs,Tyga,Offset,Taste,0.884,0.559,0,-7.442,1,0.12,0.0236,0,0.101,0.342,97.994,audio_features,232959,4
+15,2018,Hot R&B/Hip-Hop Songs,6ix9ine,Nicki Minaj & Murda Beatz,FEFE,0.931,0.387,1,-9.127,1,0.412,0.088,0,0.136,0.376,125.978,audio_features,179405,4
+16,2018,Hot R&B/Hip-Hop Songs,"Migos, Nicki Minaj & Cardi B",NA,MotorSport,0.698,0.832,2,-4.497,1,0.103,0.0681,0.789,0.259,0.73,139.011,audio_features,190747,4
+17,2018,Hot R&B/Hip-Hop Songs,NF,NA,Let You Down,0.656,0.721,5,-5.665,0,0.122,0.298,0,0.173,0.468,148.066,audio_features,212120,4
+18,2018,Hot R&B/Hip-Hop Songs,G-Eazy,A$AP Rocky & Cardi B,No Limit,0.838,0.771,1,-3.791,1,0.244,0.0117,0,0.0853,0.405,175.957,audio_features,245387,4
+19,2018,Hot R&B/Hip-Hop Songs,The Weeknd & Kendrick Lamar,NA,Pray For Me,0.735,0.677,2,-4.979,1,0.093,0.0762,2.17e-5,0.111,0.188,100.584,audio_features,211440,4
+20,2018,Hot R&B/Hip-Hop Songs,Lil Pump,NA,Gucci Gang,0.936,0.523,5,-6.71,1,0.0597,0.239,0,0.117,0.699,119.889,audio_features,124056,4
+21,2018,Hot R&B/Hip-Hop Songs,Travis Scott,NA,Sicko Mode,0.834,0.73,8,-3.714,1,0.222,0.00513,0,0.124,0.446,155.008,audio_features,312820,4
+22,2018,Hot R&B/Hip-Hop Songs,Migos,Drake,Walk It Talk It,0.909,0.628,2,-5.456,1,0.201,0.0739,0,0.108,0.406,145.905,audio_features,276147,4
+23,2018,Hot R&B/Hip-Hop Songs,G-Eazy & Halsey,NA,Him & I,0.589,0.731,2,-6.343,1,0.0868,0.0534,0,0.308,0.191,87.908,audio_features,268867,4
+24,2018,Hot R&B/Hip-Hop Songs,Migos,NA,Stir Fry,0.815,0.816,2,-5.474,1,0.269,0.00299,0,0.159,0.498,181.967,audio_features,190288,4
+25,2018,Hot R&B/Hip-Hop Songs,Kendrick Lamar & SZA,NA,All The Stars,0.698,0.633,8,-4.946,1,0.0597,0.0605,1.94e-4,0.0926,0.552,96.924,audio_features,232187,4
+26,2018,Hot R&B/Hip-Hop Songs,Childish Gambino,NA,This Is America,0.854,0.463,5,-6.159,1,0.137,0.117,0,0.354,0.549,120.024,audio_features,225773,4
+27,2018,Hot R&B/Hip-Hop Songs,Drake,NA,Nonstop,0.912,0.412,7,-8.074,1,0.124,0.0164,0.013,0.104,0.422,154.983,audio_features,238614,4
+28,2018,Hot R&B/Hip-Hop Songs,Post Malone,NA,I Fall Apart,0.556,0.538,8,-5.408,0,0.0382,0.0689,0,0.196,0.291,143.95,audio_features,223347,4
+29,2018,Hot R&B/Hip-Hop Songs,Lil Dicky,Chris Brown,Freaky Friday,0.755,0.599,8,-5.042,1,0.224,0.147,0,0.109,0.755,133.123,audio_features,216632,4
+30,2018,Hot R&B/Hip-Hop Songs,6ix9ine,NA,Gummo,0.66,0.775,2,-4.926,1,0.172,0.0553,0,0.129,0.635,157.036,audio_features,157643,4
+31,2018,Hot R&B/Hip-Hop Songs,Offset & Metro Boomin,NA,Ric Flair Drip,0.88,0.428,9,-8.28,1,0.206,0.149,5.07e-5,0.114,0.333,100.007,audio_features,172800,4
+32,2018,Hot R&B/Hip-Hop Songs,Cardi B,NA,Be Careful,0.82,0.568,6,-8.23,0,0.411,0.0256,0,0.0952,0.535,152.279,audio_features,210787,4
+33,2018,Hot R&B/Hip-Hop Songs,Rich The Kid,NA,Plug Walk,0.876,0.519,11,-6.531,1,0.143,0.202,0,0.108,0.158,94.981,audio_features,175230,4
+34,2018,Hot R&B/Hip-Hop Songs,Cardi B,21 Savage,Bartier Cardi,0.908,0.524,1,-7.955,1,0.181,0.00111,6.78e-4,0.383,0.109,138.015,audio_features,224285,4
+35,2018,Hot R&B/Hip-Hop Songs,YG,"2 Chainz, Big Sean & Nicki Minaj",Big Bank,0.745,0.346,1,-7.709,1,0.331,0.00552,0,0.0881,0.112,203.911,audio_features,237240,4
+36,2018,Hot R&B/Hip-Hop Songs,Kendrick Lamar,Zacari,Love.,0.8,0.585,10,-7.343,1,0.0924,0.264,0,0.153,0.779,126.058,audio_features,213400,4
+37,2018,Hot R&B/Hip-Hop Songs,XXXTENTACION,NA,Moonlight,0.921,0.537,9,-5.723,0,0.0804,0.556,0.00404,0.102,0.711,128.009,audio_features,135090,4
+38,2018,Hot R&B/Hip-Hop Songs,DJ Khaled,"Justin Bieber, Chance The Rapper & Quavo",No Brainer,0.552,0.76,0,-4.706,1,0.342,0.0733,0,0.0865,0.639,135.702,audio_features,260000,5
+39,2018,Hot R&B/Hip-Hop Songs,A$AP Ferg,Nicki Minaj,Plain Jane,0.797,0.844,11,-5.482,1,0.275,0.0651,0,0.087,0.52,170.142,audio_features,173600,4
+40,2018,Hot R&B/Hip-Hop Songs,Gucci Mane,Migos,I Get The Bag,0.89,0.633,11,-5.475,1,0.168,0.0232,3.43e-4,0.0993,0.425,139.948,audio_features,233087,4
+41,2018,Hot R&B/Hip-Hop Songs,"Jay Rock, Kendrick Lamar, Future & James Blake",NA,King's Dead,0.563,0.717,1,-5.186,1,0.337,8.74e-4,0,0.183,0.427,82.064,audio_features,229670,4
+42,2018,Hot R&B/Hip-Hop Songs,N*E*R*D & Rihanna,NA,Lemon,0.916,0.727,1,-6.556,1,0.0861,0.00214,1.45e-4,0.118,0.201,94.997,audio_features,219707,4
+43,2018,Hot R&B/Hip-Hop Songs,The Weeknd,NA,Call Out My Name,0.461,0.593,1,-4.954,1,0.0356,0.17,0,0.307,0.175,134.17,audio_features,228373,3
+44,2018,Hot R&B/Hip-Hop Songs,Cardi B,NA,Bodak Yellow (Money Moves),0.813,0.574,9,-9.401,1,0.0577,0.0606,0,0.428,0.546,124.982,audio_features,220395,3
+45,2018,Hot R&B/Hip-Hop Songs,Drake,NA,I'm Upset,0.899,0.586,11,-7.866,0,0.344,0.279,0,0.0836,0.492,150.001,audio_features,214467,4
+46,2018,Hot R&B/Hip-Hop Songs,Ella Mai,NA,Trip,0.477,0.61,11,-5.628,0,0.144,0.225,0,0.107,0.358,79.882,audio_features,213993,4
+47,2018,Hot R&B/Hip-Hop Songs,Miguel,Travis Scott,Sky Walker,0.674,0.506,6,-10.532,1,0.0434,0.173,0,0.0866,0.183,145.965,audio_features,259333,4
+48,2018,Hot R&B/Hip-Hop Songs,YoungBoy Never Broke Again,NA,Outside Today,0.851,0.666,11,-5.334,0,0.0694,0.139,0,0.105,0.0585,134.068,audio_features,129105,4
+49,2018,Hot R&B/Hip-Hop Songs,Nicki Minaj,NA,Chun-Li,0.69,0.729,6,-5.08,0,0.372,0.276,5.08e-5,0.106,0.478,128.96,audio_features,191600,5
+50,2018,Hot R&B/Hip-Hop Songs,XXXTENTACION,NA,Changes,0.669,0.308,11,-10.068,1,0.029,0.883,0,0.0984,0.52,64.934,audio_features,121887,4
+51,2018,Hot R&B/Hip-Hop Songs,Rae Sremmurd & Juicy J,NA,Powerglide,0.704,0.666,11,-10.307,0,0.0527,0.0478,4.45e-5,0.108,0.527,174.054,audio_features,331583,4
+52,2018,Hot R&B/Hip-Hop Songs,Eminem,Ed Sheeran,River,0.748,0.749,8,-5.916,0,0.516,0.142,0,0.0713,0.659,90.09,audio_features,221013,4
+53,2018,Hot R&B/Hip-Hop Songs,The Carters,NA,Apes**t,0.698,0.783,2,-6.503,1,0.266,0.016,0,0.176,0.378,160.034,audio_features,264853,4
+54,2018,Hot R&B/Hip-Hop Songs,Rich The Kid,Kendrick Lamar,New Freezer,0.884,0.698,0,-9.101,1,0.364,0.0405,0,0.195,0.575,140.068,audio_features,191938,4
+55,2018,Hot R&B/Hip-Hop Songs,Juice WRLD,NA,All Girls Are The Same,0.671,0.529,0,-7.226,1,0.307,0.0769,3.35e-4,0.0856,0.203,161.989,audio_features,165820,4
+56,2018,Hot R&B/Hip-Hop Songs,Kanye West & Lil Pump,NA,I Love It,0.901,0.522,2,-8.304,1,0.33,0.0114,0,0.259,0.329,104.053,audio_features,127947,4
+57,2018,Hot R&B/Hip-Hop Songs,Lil Baby & Gunna,NA,Drip Too Hard,0.896,0.671,1,-6.977,0,0.289,0.103,0,0.552,0.358,112.502,audio_features,145543,4
+58,2018,Hot R&B/Hip-Hop Songs,Lil Uzi Vert,Nicki Minaj,The Way Life Goes,0.703,0.757,1,-3.612,1,0.05,0.617,0,0.106,0.696,82.008,audio_features,221747,4
+59,2018,Hot R&B/Hip-Hop Songs,Sheck Wes,NA,Mo Bamba,0.729,0.625,4,-5.266,1,0.0315,0.194,0.00986,0.248,0.261,146.034,audio_features,183907,4
+60,2018,Hot R&B/Hip-Hop Songs,Famous Dex,NA,Japan,0.733,0.678,6,-7.771,1,0.438,0.121,0,0.344,0.841,175.985,audio_features,142000,4
+61,2018,Hot R&B/Hip-Hop Songs,Cardi B,Kehlani,Ring,0.767,0.543,1,-7.881,0,0.103,0.049,0,0.115,0.485,106.029,audio_features,177140,4
+62,2018,Hot R&B/Hip-Hop Songs,Post Malone,NA,Candy Paint,0.67,0.654,4,-5.944,1,0.153,0.627,1.02e-6,0.071,0.438,180.024,audio_features,227533,4
+63,2018,Hot R&B/Hip-Hop Songs,YBN Nahmir,NA,Rubbin Off The Paint,0.734,0.751,1,-7.26,1,0.285,0.00529,0,0.183,0.56,161.997,audio_features,159916,4
+64,2018,Hot R&B/Hip-Hop Songs,Famous Dex,A$AP Rocky,Pick It Up,0.921,0.467,1,-8.443,1,0.119,0.0149,2.38e-4,0.334,0.287,135.995,audio_features,191252,4
+65,2018,Hot R&B/Hip-Hop Songs,Kodak Black,XXXTENTACION,Roll In Peace,0.747,0.524,10,-6.807,0,0.245,0.0306,0,0.2,0.363,140.053,audio_features,213132,4
+66,2018,Hot R&B/Hip-Hop Songs,Khalid,NA,Young Dumb & Broke,0.798,0.539,1,-6.351,1,0.0421,0.199,1.66e-5,0.165,0.394,136.949,audio_features,202547,4
+67,2018,Hot R&B/Hip-Hop Songs,Queen Naija,NA,Medicine,0.741,0.37,8,-8.437,0,0.324,0.24,0,0.118,0.13,116.06,audio_features,219136,4
+68,2018,Hot R&B/Hip-Hop Songs,J. Cole,NA,KOD,0.831,0.782,0,-6.274,1,0.15,0.21,0,0.113,0.199,141.869,audio_features,191437,4
+69,2018,Hot R&B/Hip-Hop Songs,21 Savage,NA,Bank Account,0.884,0.346,8,-8.228,0,0.351,0.0151,7.04e-6,0.0871,0.376,75.016,audio_features,220307,4
+70,2018,Hot R&B/Hip-Hop Songs,Post Malone,Nicki Minaj,Ball For Me,0.792,0.56,9,-4.125,1,0.225,0.493,0,0.0849,0.505,134.044,audio_features,206267,4
+71,2018,Hot R&B/Hip-Hop Songs,Eminem,Joyner Lucas,Lucky You,0.876,0.786,10,-4.884,0,0.306,0.0627,0,0.127,0.575,153.068,audio_features,244679,4
+72,2018,Hot R&B/Hip-Hop Songs,Lil Skies,Landon Cube,Red Roses,0.691,0.683,0,-7.335,1,0.0954,0.547,0,0.221,0.456,140.002,audio_features,262544,4
+73,2018,Hot R&B/Hip-Hop Songs,Lil Xan,NA,Betrayed,0.821,0.434,10,-9.194,0,0.118,0.434,0,0.128,0.241,120.012,audio_features,187173,4
+74,2018,Hot R&B/Hip-Hop Songs,"Khalid, Ty Dolla $ign & 6LACK",NA,OTW,0.629,0.485,4,-11.835,0,0.0577,0.328,0.918,0.28,0.208,73.717,audio_features,266036,4
+75,2018,Hot R&B/Hip-Hop Songs,Lil Pump,NA,Esskeetit,0.932,0.506,11,-7.755,1,0.161,0.022,0,0.0933,0.696,139.974,audio_features,181714,4
+76,2018,Hot R&B/Hip-Hop Songs,Logic & Marshmello,NA,Everyday,0.668,0.519,1,-11.341,1,0.0428,0.00643,0.00343,0.0986,0.494,150.029,audio_features,204846,4
+77,2018,Hot R&B/Hip-Hop Songs,Migos,NA,Narcos,0.936,0.588,7,-6.948,0,0.136,0.0146,0,0.139,0.238,124.987,audio_features,255379,4
+78,2018,Hot R&B/Hip-Hop Songs,NF,NA,Lie,0.753,0.66,5,-6.542,1,0.133,0.161,0,0.236,0.182,95.003,audio_features,209213,4
+79,2018,Hot R&B/Hip-Hop Songs,Chris Brown,"Yo Gotti, A Boogie Wit da Hoodie & Kodak Black",Pills And Automobiles,0.82,0.696,7,-4.918,0,0.182,0.119,0,0.231,0.617,144.981,audio_features,292910,4
+80,2018,Hot R&B/Hip-Hop Songs,Kodak Black,Travis Scott & Offset,ZEZE,0.861,0.603,8,-5.788,0,0.176,0.0521,0,0.0924,0.504,98.043,audio_features,228760,4
+81,2018,Hot R&B/Hip-Hop Songs,Lil Skies,Landon Cube,Nowadays,0.745,0.646,6,-6.987,0,0.17,0.157,0,0.338,0.46,79.993,audio_features,203908,4
+82,2018,Hot R&B/Hip-Hop Songs,Yella Beezy,NA,That's On Me,0.803,0.648,4,-9.185,0,0.198,0.0288,0,0.0904,0.538,131.925,audio_features,219552,4
+83,2018,Hot R&B/Hip-Hop Songs,Eminem,NA,Killshot,0.892,0.651,0,-8.645,0,0.378,0.0989,0,0.371,0.599,105.814,audio_features,253580,4
+84,2018,Hot R&B/Hip-Hop Songs,Kodak Black,Lil Wayne,Codeine Dreaming,0.736,0.604,1,-7.357,0,0.222,0.0652,6.43e-5,0.124,0.574,155.007,audio_features,264532,4
+85,2018,Hot R&B/Hip-Hop Songs,SZA,NA,The Weekend,0.487,0.366,8,-9.405,0,0.0531,0.241,0,0.126,0.161,68.191,audio_features,272187,5
+87,2018,Hot R&B/Hip-Hop Songs,Cardi B,Migos,Drip,0.968,0.589,11,-7.808,1,0.255,0.0511,0,0.0731,0.268,129.993,audio_features,262308,4
+88,2018,Hot R&B/Hip-Hop Songs,YoungBoy Never Broke Again,NA,No Smoke,0.658,0.736,9,-6.097,0,0.308,0.113,0,0.0978,0.804,143.966,audio_features,160000,4
+89,2018,Hot R&B/Hip-Hop Songs,Logic,Alessia Cara & Khalid,1-800-273-8255,0.62,0.574,5,-7.788,0,0.0479,0.57,0,0.19,0.352,100.021,audio_features,250173,4
+90,2018,Hot R&B/Hip-Hop Songs,Lil' Duval,Snoop Dogg & Ball Greezy,Smile (Living My Best Life),0.874,0.727,8,-7.689,1,0.0777,0.09,5.83e-6,0.0759,0.427,98.97,audio_features,214160,4
+91,2018,Hot R&B/Hip-Hop Songs,Daniel Caesar,H.E.R.,Best Part,0.473,0.371,4,-10.219,0,0.0405,0.795,0,0.109,0.413,75.208,audio_features,209400,4
+92,2018,Hot R&B/Hip-Hop Songs,6ix9ine,NA,Kooda,0.885,0.641,1,-4.455,1,0.351,0.175,0,0.234,0.201,91.167,audio_features,142582,4
+93,2018,Hot R&B/Hip-Hop Songs,Quavo,NA,W O R K I N M E,0.79,0.629,8,-4.055,1,0.142,0.182,7.06e-6,0.338,0.267,170.023,audio_features,169620,4
+94,2018,Hot R&B/Hip-Hop Songs,Drake,NA,Mob Ties,0.755,0.575,4,-8.393,0,0.0678,0.0456,0.00124,0.276,0.49,85.987,audio_features,205147,4
+95,2018,Hot R&B/Hip-Hop Songs,Jhene Aiko,Swae Lee Or Rae Sremmurd,Sativa,0.741,0.61,6,-7.34,0,0.0512,0.315,0,0.534,0.72,125.99,audio_features,276960,4
+96,2018,Hot R&B/Hip-Hop Songs,Kanye West,NA,All Mine,0.925,0.31,11,-6.531,0,0.291,0.123,0,0.0931,0.291,121.927,audio_features,145507,4
+97,2018,Hot R&B/Hip-Hop Songs,Meek Mill,Jeremih & PnB Rock,Dangerous,0.763,0.441,0,-8.211,1,0.256,0.0581,0,0.0458,0.538,86.093,audio_features,234589,4
+98,2018,Hot R&B/Hip-Hop Songs,Travis Scott,NA,Stargazing,0.487,0.789,8,-3.69,1,0.044,0.00947,4.05e-6,0.189,0.0564,150.007,audio_features,270715,4
+99,2018,Hot R&B/Hip-Hop Songs,Lil Wayne,NA,Uproar,0.743,0.87,1,-2.188,1,0.212,0.0595,0,0.299,0.884,99.075,audio_features,194184,4

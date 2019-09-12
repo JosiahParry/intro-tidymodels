@@ -3,6 +3,11 @@ library(dplyr)
 library(parsnip)
 library(ranger)
 
+#------------------------------------------------------------------------------#
+#                                    Global                                    #
+#------------------------------------------------------------------------------#
+#--------------- This code is sourced and available to the API ----------------#
+#------------------------------------------------------------------------------#
 
 audio_classifier <- readr::read_rds("models/audio_classifier.rds")
 audio_rec <- readr::read_rds("models/audio_rec.rds")
@@ -23,6 +28,11 @@ track_audio_features <- function(artist, title, type = "track") {
   
   return(track_audio_feats)
 }
+
+
+#------------------------------------------------------------------------------#
+#                                API definition                                #
+#------------------------------------------------------------------------------#
 
 
 # plumber.R
